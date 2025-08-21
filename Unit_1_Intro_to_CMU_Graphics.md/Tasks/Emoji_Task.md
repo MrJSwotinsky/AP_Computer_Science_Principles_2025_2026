@@ -43,7 +43,7 @@
 
 ## Design Thinking Process
 
-**Apply the design thinking process to develop your program.**
+**Apply the [design thinking](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Design%20Thinking.pdf) process to develop your program.**
 
 1. **Empathize**:
     * [ ] Who is your intended audience?
