@@ -19,3 +19,5 @@ Oval(130, 220, 150, 50, border = 'darkBlue', borderWidth = 8, fill = None, rotat
 Rect(110, 190, 75,40, fill = 'yellow')
 Circle(120, 192, 20, fill = 'yellow')
 Star(200, 240, 25, 10, fill = 'darkBlue', roundness = 90)
+Label('SCUBA', 200, 232, font = 'montserrat', size = 10, fill = 'white', bold = True)
+Label('Gear', 200, 245, font = 'caveat', size = 20, fill = 'white', italic = True)
