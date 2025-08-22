@@ -25,3 +25,14 @@ Label('Gear', 200, 245, font = 'caveat', size = 20, fill = 'white', italic = Tru
 # Fish
 Polygon(300,100,320,80,340,80,355,95,370,80,370,120,355,105,340,120,320,120, fill = rgb(5, 250, 210))
 Circle(316,96,4)
+
+# Bubbles
+Circle(240, 220, 8, fill = 'lightBlue', border = 'blue', borderWidth = 1)
+Circle(235, 200, 3, fill = 'lightBlue', border = 'blue', borderWidth = 1)
+Circle(260, 190, 15, fill = 'lightBlue', border = 'blue', borderWidth = 1)
+Circle(280, 150, 12, fill = 'lightBlue', border = 'blue', borderWidth = 1)
+Circle(237, 125, 18, fill = 'lightBlue', border = 'blue', borderWidth = 1)
+Circle(260, 110, 6, fill = 'lightBlue', border = 'blue', borderWidth = 1)
+Circle(265, 80, 10, fill = 'lightBlue', border = 'blue', borderWidth = 1)
+Circle(290, 13, 12, fill = 'lightBlue', border = 'blue', borderWidth = 1)
+Circle(240, 40, 20, fill = 'lightBlue', border = 'blue', borderWidth = 1)
