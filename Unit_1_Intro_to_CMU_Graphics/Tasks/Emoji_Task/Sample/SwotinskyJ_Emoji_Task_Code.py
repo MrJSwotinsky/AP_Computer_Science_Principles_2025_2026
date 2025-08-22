@@ -21,3 +21,7 @@ Circle(120, 192, 20, fill = 'yellow')
 Star(200, 240, 25, 10, fill = 'darkBlue', roundness = 90)
 Label('SCUBA', 200, 232, font = 'montserrat', size = 10, fill = 'white', bold = True)
 Label('Gear', 200, 245, font = 'caveat', size = 20, fill = 'white', italic = True)
+
+# Fish
+Polygon(300,100,320,80,340,80,355,95,370,80,370,120,355,105,340,120,320,120, fill = rgb(5, 250, 210))
+Circle(316,96,4)
