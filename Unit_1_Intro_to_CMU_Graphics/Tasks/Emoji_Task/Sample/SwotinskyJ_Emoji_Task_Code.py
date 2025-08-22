@@ -13,5 +13,7 @@ Circle(175, 160, 15)
 Circle(225, 160, 15)
 
 # Regulator:
-Star(200, 240, 20, 10, fill = 'darkBlue', roundness = 90)
-Oval(130, 220, 150, 50, border = 'darkBlue', borderWidth = 7, fill = None, rotateAngle = 20)
+Star(200, 240, 25, 10, fill = 'darkBlue', roundness = 90)
+Oval(130, 220, 150, 50, border = 'darkBlue', borderWidth = 8, fill = None, rotateAngle = 20)
+Rect(110, 190, 75,40, fill = 'yellow')
+Circle(120, 192, 20, fill = 'yellow')
