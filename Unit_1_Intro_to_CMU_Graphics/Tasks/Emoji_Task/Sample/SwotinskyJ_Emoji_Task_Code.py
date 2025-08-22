@@ -8,7 +8,9 @@ Oval(200, 230, 100, 30)
 Rect(150, 215, 100, 15, fill = 'yellow')
 
 # Mask & Eyes:
-Rect(140,130,120,60, fill = 'lightYellow', border = 'blue')
+Line(112, 150, 150, 162, fill = 'darkBlue', lineWidth = 20)
+Line(288, 150, 250, 162, fill = 'darkBlue', lineWidth = 20)
+Rect(140, 130, 120, 60, fill = 'lightYellow', border = 'blue')
 Circle(175, 160, 15)
 Circle(225, 160, 15)
 
