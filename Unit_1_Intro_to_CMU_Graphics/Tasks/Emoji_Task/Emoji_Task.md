@@ -1,12 +1,12 @@
 # Emoji Task
 
-**YOUR MISSION:** Apply what you have learned about coding shapes to generate an emoji that represents you.
+Apply what you have learned about coding shapes in CMU Graphics to code an emoji that represents you.
 
 ## Requirements:
 
-1. Your emoji represents you.  It is up to you to determine how...be creative!
+1. Create an emoji that represents you.  It is up to you to determine how...be creative!
 
-2. Your emoji code includes **all** of the following functions:
+2. In your code, call **all** of the following functions:
     * [ ] [Rect()](https://academy.cs.cmu.edu/docs/rect)
     * [ ] [Circle()](https://academy.cs.cmu.edu/docs/circle)
     * [ ] [Oval()](https://academy.cs.cmu.edu/docs/oval)
@@ -15,7 +15,7 @@
     * [ ] [Polygon()](https://academy.cs.cmu.edu/docs/polygon)
     * [ ] [Label()](https://academy.cs.cmu.edu/docs/label)
 
-3. Your emoji code passes arguments to **all** of the following keyword parameters:
+3. In your code, pass arguments to **all** of the following keyword parameters:
     * [ ] fill
     * [ ] border 
     * [ ] borderWidth 
@@ -27,17 +27,28 @@
     * [ ] bold 
     * [ ] italic 
           
-4. Your emoji describes fill in **all** of the following ways:
-    * [ ] [Built-in color names](https://academy.cs.cmu.edu/docs/builtInColors)
-    * [ ] [RGB values](https://academy.cs.cmu.edu/docs/rgbValues) (Check out the [Google Color Picker](https://www.google.com/search?q=google+color+picker) for help creating custom colors.)
+4. In your code, describe fill in **all** of the following ways:
+    * [ ] [Built-In Colors](https://academy.cs.cmu.edu/docs/builtInColors)
+    * [ ] [RGB Values](https://academy.cs.cmu.edu/docs/rgbValues) (Check out the [Google Color Picker](https://www.google.com/search?q=google+color+picker) for help creating custom colors.)
     * [ ] [Gradient](https://academy.cs.cmu.edu/docs/gradients)
   
-5. NOTE: Add something about code comments:
+5. Thoroughly comment your code in a way that explains and enhances the readability of your code without cluttering it.
 
-6. NOTE: Add something about design thinking process:
+6. Apply the [design thinking](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Design%20Thinking.pdf) process to complete this task
      * [ ] NOTE: Highlight design planner requirement.
      * [ ] NOTE: Highlight version history requirement.
-   
+   <br><br>
+   <table>
+      <tr>
+         <td>
+            <b>Version History Matters!</b><br><br>
+            ...It helps to document your engagement in the design thinking process.<br>
+            ...It gives you the ability to go back to a previous version at any time.<br>
+            ...It provides evidence that the work you submit is authentically yours.<br><br>
+            <b>Tasks submitted without a <ins>well documented</ins> version history containing <ins>at least 5 versions of your code</ins> and <ins>at least 5 versions of your emoji</ins> will not be accepted.</b>
+         </td>
+      </tr>
+   </table>
 
 ## Design Thinking Process
 
