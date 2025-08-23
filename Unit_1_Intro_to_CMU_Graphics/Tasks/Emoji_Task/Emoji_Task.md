@@ -4,24 +4,22 @@
 
 ## Requirements:
 
-1. Your emoji represents you.  It is up to you to determine how...Be creative!
+1. Your emoji represents you.  It is up to you to determine how...be creative!
 
-2. Your emoji includes **all** of the following functions:
-    * [ ] Rect()
-    * [ ] Circle()
-    * [ ] Oval()
-    * [ ] Star()
-    * [ ] Line()
-    * [ ] Polygon()
-    * [ ] Label()
+2. Your emoji code includes **all** of the following functions:
+    * [ ] [Rect()](https://academy.cs.cmu.edu/docs/rect)
+    * [ ] [Circle()](https://academy.cs.cmu.edu/docs/circle)
+    * [ ] [Oval()](https://academy.cs.cmu.edu/docs/oval)
+    * [ ] [Star()](https://academy.cs.cmu.edu/docs/star)
+    * [ ] [Line()](https://academy.cs.cmu.edu/docs/line)
+    * [ ] [Polygon()](https://academy.cs.cmu.edu/docs/polygon)
+    * [ ] [Label()](https://academy.cs.cmu.edu/docs/label)
 
-3. Your emoji passes arguments to **all** of the following parameters:
+3. Your emoji code passes arguments to **all** of the following keyword parameters:
     * [ ] fill
     * [ ] border 
     * [ ] borderWidth 
-    * [ ] rotateAngle 
-    * [ ] radius 
-    * [ ] points 
+    * [ ] rotateAngle  
     * [ ] roundness 
     * [ ] lineWidth 
     * [ ] size
@@ -30,9 +28,9 @@
     * [ ] italic 
           
 4. Your emoji describes fill in **all** of the following ways:
-    * [ ] Built-in color names
-    * [ ] RGB values
-    * [ ] Gradient
+    * [ ] [Built-in color names](https://academy.cs.cmu.edu/docs/builtInColors)
+    * [ ] [RGB values](https://academy.cs.cmu.edu/docs/rgbValues) (Check out the [Google Color Picker](https://www.google.com/search?q=google+color+picker) for help creating custom colors.)
+    * [ ] [Gradient](https://academy.cs.cmu.edu/docs/gradients)
   
 5. NOTE: Add something about code comments:
 
@@ -83,3 +81,5 @@ Create a folder titled, `LastNameFirstInitial_Emoji_Task` to store the following
 * [ ] Your Code (including a robust version history) / filename: `LastNameFirstInitial_Emoji_Task_Code.py`
 * [ ] Your Emoji (including a robust version history) / filename: `LastNameFirstInitial_Emoji_Task_Emoji.png`
 * [ ] Your Reflection / filename: `README.md`
+
+**[Click here](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/tree/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Sample) to see an example of what your final project should look like.**
