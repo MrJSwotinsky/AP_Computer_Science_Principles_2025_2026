@@ -48,7 +48,7 @@ Create a folder titled, `LastNameFirstInitial_Emoji_Task` to store the following
 5. Thoroughly comment your code in a way that explains and enhances the readability of your code without cluttering it.
 
 6. Apply the [design thinking](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Design%20Thinking.pdf) process to complete this task
-     * [ ] Capture your engagement in the **Empathize**, **Define**, and **Ideate** stages of the design thinking process using your design planner.<br>*Remember, You may want to revisit these stages throughout the design thinking process.  If you do, be sure to capture it in your design thinking planner.*
+     * [ ] Capture your engagement in the **Empathize**, **Define**, and **Ideate** stages of the design thinking process using your [design planner](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Design%20Planner.pdf).<br>*Remember, You may want to revisit these stages throughout the design thinking process.  If you do, be sure to capture it in your design thinking planner.*
      * [ ] As you **Prototype** and **Test**, remember to regularly commit.
         * [ ]  For each commit, include a **commit message** and a **description** to **describe** progress and **next steps**.
         * [ ]  Document at least **2** changes you made based on **peer feedback**.
