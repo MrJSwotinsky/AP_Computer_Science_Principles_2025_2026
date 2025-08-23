@@ -2,7 +2,7 @@
 
 Apply what you have learned about coding shapes in CMU Graphics to code an emoji that represents you.
 
-## Requirements:
+## Requirements
 
 1. Create an emoji that represents you.  It is up to you to determine how...be creative!
 
@@ -49,6 +49,8 @@ Apply what you have learned about coding shapes in CMU Graphics to code an emoji
          </td>
       </tr>
    </table>
+
+## Reflection
 
 ## Design Thinking Process
 
