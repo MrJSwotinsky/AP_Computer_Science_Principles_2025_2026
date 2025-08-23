@@ -20,27 +20,27 @@ Create a folder titled, `LastNameFirstInitial_Emoji_Task` to store the following
 1. Create an emoji that represents you.  It is up to you to determine how...be creative!
 
 2. In your code, call **all** of the following functions:
-    * [ ] [Rect()](https://academy.cs.cmu.edu/docs/rect)
-    * [ ] [Circle()](https://academy.cs.cmu.edu/docs/circle)
-    * [ ] [Oval()](https://academy.cs.cmu.edu/docs/oval)
-    * [ ] [Star()](https://academy.cs.cmu.edu/docs/star)
-    * [ ] [Line()](https://academy.cs.cmu.edu/docs/line)
-    * [ ] [Polygon()](https://academy.cs.cmu.edu/docs/polygon)
-    * [ ] [Label()](https://academy.cs.cmu.edu/docs/label)
+    * [ ] [`Rect()`](https://academy.cs.cmu.edu/docs/rect)
+    * [ ] [`Circle()`](https://academy.cs.cmu.edu/docs/circle)
+    * [ ] [`Oval()`](https://academy.cs.cmu.edu/docs/oval)
+    * [ ] [`Star()`](https://academy.cs.cmu.edu/docs/star)
+    * [ ] [`Line()`](https://academy.cs.cmu.edu/docs/line)
+    * [ ] [`Polygon()`](https://academy.cs.cmu.edu/docs/polygon)
+    * [ ] [`Label()`](https://academy.cs.cmu.edu/docs/label)
 
 3. In your code, pass arguments to **all** of the following keyword parameters:
-    * [ ] fill
-    * [ ] border 
-    * [ ] borderWidth 
-    * [ ] rotateAngle  
-    * [ ] roundness 
-    * [ ] lineWidth 
-    * [ ] size
-    * [ ] font
-    * [ ] bold 
-    * [ ] italic 
+    * [ ] `fill`
+    * [ ] `border` 
+    * [ ] `borderWidth` 
+    * [ ] `rotateAngle`  
+    * [ ] `roundness` 
+    * [ ] `lineWidth` 
+    * [ ] `size`
+    * [ ] `font`
+    * [ ] `bold` 
+    * [ ] `italic` 
           
-4. In your code, describe fill in **all** of the following ways:
+4. In your code, describe `fill` in **all** of the following ways:
     * [ ] [Built-In Colors](https://academy.cs.cmu.edu/docs/builtInColors)
     * [ ] [RGB Values](https://academy.cs.cmu.edu/docs/rgbValues) (Check out the [Google Color Picker](https://www.google.com/search?q=google+color+picker) for help creating custom colors.)
     * [ ] [Gradient](https://academy.cs.cmu.edu/docs/gradients)
