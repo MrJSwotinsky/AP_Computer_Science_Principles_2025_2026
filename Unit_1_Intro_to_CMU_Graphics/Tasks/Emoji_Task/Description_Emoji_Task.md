@@ -2,6 +2,19 @@
 
 Apply what you have learned about coding shapes in CMU Graphics to code an emoji that represents you.
 
+## To Be Submitted
+
+Create a folder titled, `LastNameFirstInitial_Emoji_Task` to store the following deliverables for this task:
+
+* [ ] Your Completed Design Planner  / filename: `LastNameFirstInitial_Emoji_Task_Design_Planner.png`
+* [ ] Your Code (including a robust version history) / filename: `LastNameFirstInitial_Emoji_Task_Code.py`
+* [ ] Your Emoji (including a robust version history) / filename: `LastNameFirstInitial_Emoji_Task_Emoji.png`
+* [ ] Your Reflection / filename: `README.md`
+
+**Check out this [example](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/tree/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Sample) of what your final project should look like.**
+
+**Check out this [pathway to success](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Pathway%20to%20Success%20-%20Emoji%20Task.pdf) to guide you in progressing toward mastery.**
+
 ## Requirements
 
 1. Create an emoji that represents you.  It is up to you to determine how...be creative!
@@ -54,14 +67,3 @@ Apply what you have learned about coding shapes in CMU Graphics to code an emoji
    </table>
 
 ## Reflection
-
-## To Submit
-
-Create a folder titled, `LastNameFirstInitial_Emoji_Task` to store the following deliverables for this task:
-
-* [ ] Your Completed Design Planner  / filename: `LastNameFirstInitial_Emoji_Task_Design_Planner.png`
-* [ ] Your Code (including a robust version history) / filename: `LastNameFirstInitial_Emoji_Task_Code.py`
-* [ ] Your Emoji (including a robust version history) / filename: `LastNameFirstInitial_Emoji_Task_Emoji.png`
-* [ ] Your Reflection / filename: `README.md`
-
-**[Click here](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/tree/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Sample) to see an example of what your final project should look like.**
