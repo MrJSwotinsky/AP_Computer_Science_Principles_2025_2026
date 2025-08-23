@@ -30,6 +30,7 @@ Create a folder titled, `LastNameFirstInitial_Emoji_Task` to store the following
 
 3. In your code, pass arguments to **all** of the following keyword parameters:
     * [ ] `fill`
+    * [ ] `opacity`
     * [ ] `border` 
     * [ ] `borderWidth` 
     * [ ] `rotateAngle`  
