@@ -35,8 +35,11 @@ Apply what you have learned about coding shapes in CMU Graphics to code an emoji
 5. Thoroughly comment your code in a way that explains and enhances the readability of your code without cluttering it.
 
 6. Apply the [design thinking](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Design%20Thinking.pdf) process to complete this task
-     * [ ] NOTE: Highlight design planner requirement.
-     * [ ] NOTE: Highlight version history requirement.
+     * [ ] Capture your engagement in the **Empathize**, **Define**, and **Ideate** stages of the design thinking process using your design planner.<br>*Remember, You may want to revisit these stages throughout the design thinking process.  If you do, be sure to capture it in your design thinking planner.*
+     * [ ] As you **Prototype** and **Test**, remember to regularly commit.
+        * [ ]  For each commit, include a **commit message** and a **description** to **describe** progress and **next steps**.
+        * [ ]  Document at least **2** changes you made based on **peer feedback**.
+        * [ ]  Document at least **1** change you made by **troubleshooting** and **resolving** an issue.
    <br><br>
    <table>
       <tr>
@@ -51,40 +54,6 @@ Apply what you have learned about coding shapes in CMU Graphics to code an emoji
    </table>
 
 ## Reflection
-
-## Design Thinking Process
-
-**Apply the [design thinking](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Design%20Thinking.pdf) process to develop your program.**
-
-1. **Empathize**:
-    * [ ] Who is your intended audience?
-    * [ ] What are their needs, feelings, and challenges?
-    * [ ] In what ways will your emoji meet their needs, feelings, or challenges?
-
-      **Capture your ideas in your design planner**
-   
-2. **Define**:
-    * [ ] Explicitly define the problem with as much detail as possible.
-  
-      **Capture your ideas in your design planner**
-
-3. **Ideate**:
-    * [ ] Brainstorm several ideas for your emoji.
-    * [ ] Use written descriptions and/or sketches to bring your ideas to life.
-  
-       **Capture your ideas in your design planner**
-
-4. **Prototype**:
-    * [ ] NOTE: To be completed.
-    * [ ] NOTE: To be completed.
-     
-5. **Test**:
-    * [ ] NOTE: To be completed.
-    * [ ] NOTE: To be completed.
-
-NOTE: Add reminder to regularly commit, include commit message, and description.
-NOTE: Add reminder about 2 peer feedback commits and 1 troubleshooting commit.
-NOTE: Add reminders about revisiting other parts of the design thinking process.
 
 ## To Submit
 
