@@ -13,7 +13,7 @@ Complete [CMU Graphics](https://academy.cs.cmu.edu/) exercise set 1.1.5 (Colors 
 4. Capture a screenshot of your emoji and save it as `LastNameFirstInitial_Emoji_Task_Emoji.png`.
 5. Upload your screenshot to your Emoji Task folder
 6. Commit your progress.
-    * Remember to write short and simple commit message to describe your progress.
+    * Remember to write a short and simple commit message to describe your progress.
     * Remember to write a more detailed commit description to describe your progress and next steps.
 7. Create a new file in your Emoji Task folder titled `LastNameFirstInitial_Emoji_Task_Code.py`
 8. Copy/Paste your code from CMU Graphics to `LastNameFirstInitial_Emoji_Task_Code.py`
