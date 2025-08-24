@@ -1,4 +1,4 @@
-## Unit 1, Assignment 4 - CMU Graphics 1.2.2 and Emoji Task Initial Code
+## Unit 1, Assignment 4 - CMU Graphics 1.2.2 and Emoji Task First Prototype
 Due: TBA
 
 ### CMU Graphics 1.2.2:
@@ -6,9 +6,9 @@ Complete [CMU Graphics](https://academy.cs.cmu.edu/) exercise set 1.1.5 (Colors 
 
 **Successfully complete enough exercises to earn at least 2 points.**
 
-### Emoji Task Initial Code:
+### Emoji Task First Prototype:
 1. Navigate to the CMU Graphics [sandbox](https://academy.cs.cmu.edu/ide).
-2. Write some initial code to begin creating your emoji.
+2. Write some initial code to begin creating the first prototype of your emoji.
 3. Save your file as `LastNameFirstInitial_Emoji_Task_Code.py`.
 4. Capture a screenshot of your emoji and save it as `LastNameFirstInitial_Emoji_Task_Emoji.png`.
 5. Upload your screenshot to your Emoji Task folder
