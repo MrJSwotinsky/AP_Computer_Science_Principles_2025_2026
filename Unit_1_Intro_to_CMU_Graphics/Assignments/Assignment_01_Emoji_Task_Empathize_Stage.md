@@ -1,4 +1,4 @@
-## Unit 0, Assignment 1 - Emoji Task Empathy Stage
+## Unit 1, Assignment 1 - Emoji Task Empathy Stage
 Due: TBA
 
 1. Complete the **Empathize** column of your [design planner](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Design%20Planner.pdf) to capture your engagement in the Empathize stage of the [design thinking](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Design%20Thinking.pdf) process.
