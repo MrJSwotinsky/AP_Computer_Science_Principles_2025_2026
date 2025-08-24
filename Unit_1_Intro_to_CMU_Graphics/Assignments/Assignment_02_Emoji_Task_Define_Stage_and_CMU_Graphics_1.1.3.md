@@ -28,6 +28,6 @@ Due: TBA
 ### CMU Graphics 1.1.3:
 Complete [CMU Graphics](https://academy.cs.cmu.edu/) exercise set 1.1.3 (Rectangles, Position, and Size)
 
-There are 5 exercises.  For each exercise you can score 1 to 2 points.  You are not required to complete all exercises.  **However, you must successfully complete enough exercises to earn 4 points.**
+There are 5 exercises.  For each exercise you can score 1 to 2 points.  You are not required to complete all exercises.  **However, you must successfully complete enough exercises to earn at least 4 points.**
 
     
