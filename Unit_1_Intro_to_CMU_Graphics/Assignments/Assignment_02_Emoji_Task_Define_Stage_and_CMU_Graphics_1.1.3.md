@@ -1,4 +1,4 @@
-## Unit 0, Assignment 2 - Emoji Task Define Stage and CMU Graphics 1.1.3
+## Unit 1, Assignment 2 - Emoji Task Define Stage and CMU Graphics 1.1.3
 Due: TBA
 
 ### Emoji Task Define Stage:
