@@ -2,7 +2,7 @@
 Due: TBA
 
 ### CMU Graphics 1.2.5:
-Complete [CMU Graphics](https://academy.cs.cmu.edu/) exercise set 1.1.5 (Colors and Gradients)
+Complete [CMU Graphics](https://academy.cs.cmu.edu/) exercise set 1.2.5 (Ovals, Circles, Stars, Lines, Polygons, and Labels)
 
 **Successfully complete enough exercises to earn at least 3 points.**
 
