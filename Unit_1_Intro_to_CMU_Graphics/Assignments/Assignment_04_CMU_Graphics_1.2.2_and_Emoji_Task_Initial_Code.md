@@ -1,7 +1,7 @@
-## Unit 1, Assignment 4 - CMU Graphics 1.2.1 and Emoji Task Initial Code
+## Unit 1, Assignment 4 - CMU Graphics 1.2.2 and Emoji Task Initial Code
 Due: TBA
 
-### CMU Graphics 1.2.1:
+### CMU Graphics 1.2.2:
 Complete [CMU Graphics](https://academy.cs.cmu.edu/) exercise set 1.1.5 (Colors and Gradients)
 
 **Successfully complete enough exercises to earn at least 2 points.**
