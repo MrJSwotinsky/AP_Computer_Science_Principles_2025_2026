@@ -1,0 +1,21 @@
+## Unit 1, Assignment 9 - Emoji Task Reflection and CMU Graphics 1.3
+Due: TBA 
+
+### CMU Graphics 1.3:
+Complete [CMU Graphics](https://academy.cs.cmu.edu/) exercise set 1.3 (Unit 1 Exercises)
+
+**Successfully complete enough exercises to earn at least 6 points.**
+
+### Emoji Task Reflection:
+1. Create a new file in your Emoji Task folder titled, `LastNameFirstInitial_Emoji_Task_Reflection.md`.
+2. Start with a heading that includes the **tak name**, **refpection**, and **your name**.
+3. Below your heading, write your reflection using markdown.
+
+### Sample:
+
+> ## Emoji Task Reflection
+> **Mr. Swotinsky**
+>
+> Written reflection here...
+
+**As you work, remember to refer to the Emoji Task [description](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Description_Emoji_Task.md), [example](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/tree/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Sample), and [pathway to success](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Pathway%20to%20Success%20-%20Emoji%20Task.pdf) to guide you in progressing toward mastery.**
