@@ -11,7 +11,7 @@ Complete [CMU Graphics](https://academy.cs.cmu.edu/) exercise set 1.3 (Unit 1 Ex
 Write your reflection using using [markdown](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Markdown_Reference.md).
 
 1. Create a new file in your Emoji Task folder titled, `LastNameFirstInitial_Emoji_Task_Reflection.md`.
-2. Start with a heading that includes the **tak name**, **refpection**, and **your name**.
+2. Start with a heading that includes the **task name**, **refpection**, and **your name**.
 3. Below your heading, write your reflection.
 
 ### Sample:
