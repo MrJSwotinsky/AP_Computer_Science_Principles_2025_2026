@@ -1,5 +1,5 @@
 ## AP CSP - Unit 0, Assignment 2 - Sign up for AP Classroom and CMU Graphics
-Due: TBA
+Due: Wednesday, September 10th 2025
 
 ### Sign up for AP Classroom:
 
