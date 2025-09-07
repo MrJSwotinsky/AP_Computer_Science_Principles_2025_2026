@@ -5,7 +5,7 @@ Due: TBA
       <tr>
          <td>
            <b>If you do not yet have a GitHub account...</b><br><br>
-           1. <a href = https://account.collegeboard.org/login/signUp?appId=366&DURL=https://myap.collegeboard.org/login>Click here</a> to create one.<br>
+           1. <a href = https://www.github.com>Click here</a> to create one.<br>
            2. Use your nycstudents.net email address.<br>  
            3. Create a username using the following format: <code>LastNameFirstInitial_IEC</code>.<br>
            4. Create a secure password that you will be able to remember.<br>
