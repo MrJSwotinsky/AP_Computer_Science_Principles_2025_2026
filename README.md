@@ -51,3 +51,23 @@ Mr. Swotinsky, JSwotinsky@schools.nyc.gov, 646.771.6628<br>
 * 1 hours to complete 2 multi-part written responses on exam day.
 
 *The Create Performance Task is a project that you will work on throughout the course of the year.*
+
+**Grading Policy:** Throughout the semester, you will have the opportunity to show what you know through a variety of assignments, tasks, quizzes, and exams.<br>
+
+Every assignment, task, quiz, or exam will be aligned to one or more anchor skills or power standards each. You will receive a separate score for each anchor skill and power standard indicating your progress toward mastery of that particular anchor skill or power standard.  Your final score for each anchor skill and power standard will be the weighted average of all scores aligned to that particular anchor skill or power standard.  Your final grade for the course will be determined using a weighted average of your final anchor skill and power standard scores.<br>
+
+***<ins>Note:</ins>*** You are NOT expected to demonstrate perfection in this course.  You ARE expected to demonstrate **<ins>GROWTH!</ins>**  As such, you will be given many opportunities to reflect on, and revise your work based on the feedback you receive. It is expected that you will take advantage of this opportunity by engaging in the feedback, reflection, revision cycle.  ***Students who consistently engage in this process often see significant improvement in their grades.***  
+
+**Units of Study:** 
+
+|Unit|Approximate Dates|Key Topics and Concepts|
+|---|---|---|
+|**Unit 0:** <br>Introduction to AP Computer Science Principles|Early September|Design Thinking and Navigating AP Computer Science Principles|
+|**Unit 1:** <br>Introduction to CMU Graphics|Mid September - Late September|**Creative Development:** The Iterative Development Process, Collaborative Approaches to Software Development, Flow Charts, Sub-goal Labels, Code Tracing, Testing, and Debugging.<br><br>**Algorithms and Programming:** Sequencing / Selection / Iteration, Strings, and Output.<br><br>**CMU Graphics:** The CMU Canvas, Drawing Shapes, Drawing Images, and Labels.<br><br>**Create PT Prep:** 3.a – Purpose, Functionality, Inputs/Outputs (outputs only).|
+|**Unit 2:** <br>Digital Information|Early October|**Data:** Representing Information, Binary Numbers, Overflow & Rounding, and Compression.<br><br>**Impact of Computing:** Intellectual Property, and Impact of Digitizing Information.|
+|**Unit 3:** <br>Functions, Mouse Events, and Conditionals|Mid October to Late October|**Creative Development:** The Iterative Development Process, Collaborative Approaches to Software Development, Flow Charts, Sub-goal Labels, Code Tracing, Testing, and Debugging.<br><br>**Algorithms and Programming:** Input/Output, Variables/Assignment, Mathematical Expressions, Booleans, Conditionals, and Functions, and Event Handling.<br><br>**CMU Graphics:** The CMU Console, Print Statements, Mouse Events, and Shape Properties, and Shape Methods.<br><br>**Create PT Prep:** 2 – Video, 3.a – Purpose, Functionality, Inputs / Outputs (outputs only), 3.c – Procedures (Definition, Call, General Description, Contribution to Program Purpose, and Detailed Description).|
+|**Unit 4:** <br>The Internet|Early November to Mid November|**Computer Systems and Networks:** TNetworks, The Internet, Transmitting Data Over a Network, Protocols, Addressing, Fault Tolerance, and The Internet.<br><br>**Impact of Computing:** Internet Dilemmas (Net Neutrality, Censorship, and the Digital Divide).|
+
+
+
+
