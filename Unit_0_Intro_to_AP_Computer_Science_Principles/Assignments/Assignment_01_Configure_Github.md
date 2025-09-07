@@ -1,5 +1,5 @@
-## Unit 0, Assignment 2 - Configure GitHub
-Due: TBA
+## AP CSP - Unit 0, Assignment 1 - Configure GitHub
+Due: Tuesday, September 9th 2025
 
 <table>
       <tr>
