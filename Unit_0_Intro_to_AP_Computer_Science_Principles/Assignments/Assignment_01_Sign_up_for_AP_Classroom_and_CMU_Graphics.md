@@ -1,4 +1,4 @@
-## Unit 0, Assignment 1 - Sign up for AP Classroom and CMU Graphics
+## AP CSP - Unit 0, Assignment 2 - Sign up for AP Classroom and CMU Graphics
 Due: TBA
 
 ### Sign up for AP Classroom:
