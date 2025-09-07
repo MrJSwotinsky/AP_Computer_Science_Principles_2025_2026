@@ -1,4 +1,4 @@
-## AP CSP - Unit 0, Assignment 4 - Design Thinking Process Reflection
+## AP CSP - Unit 0, Assignment 3 - Design Thinking Process Reflection
 Due: Friday, September 12th 2025
 
 1. Complete your [design thinking reflection](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026) for the roller coaster challenge.
