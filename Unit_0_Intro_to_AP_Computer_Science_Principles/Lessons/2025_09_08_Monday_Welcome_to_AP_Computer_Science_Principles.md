@@ -25,7 +25,7 @@ Monday, September 8th 2025
 
 **SUCCESS CRITERIA:**
 - [ ] I have established at least one SMART goal for myself, and identified actions to help me meet my SMART goal.
-- [ ] I understand what Python is all about, what is expected of me, and what strategies I can implement to achieve success.
+- [ ] I understand what AP Computer Science Principles is all about, what is expected of me, and what strategies I can implement to achieve success.
 - [ ] I can access all AP Computer Science Principles lessons, assignments, tasks, resources, and other course materials on GitHub.
 - [ ] I am prepared to configure GitHub.
 - [ ] I am prepared to create my Python portfolio which I will use to submit my work and showcase my accomplishments.
