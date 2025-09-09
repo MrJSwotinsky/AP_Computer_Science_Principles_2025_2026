@@ -13,7 +13,7 @@ Create a folder titled, `LastNameFirstInitial_Emoji_Task` to store the following
 
 **Check out this [example](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/tree/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Sample) of what your final project should look like.**
 
-**Check out this [pathway to success](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Pathway%20to%20Success%20-%20Emoji%20Task.pdf) to guide you in progressing toward mastery.**
+**Check out this [pathway to success](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Emoji%20Task%20-%20Pathway%20to%20Success.pdf) to guide you in progressing toward mastery.**
 
 ## Requirements
 
