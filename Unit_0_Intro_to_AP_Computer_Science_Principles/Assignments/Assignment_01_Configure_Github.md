@@ -7,7 +7,7 @@ Due: Tuesday, September 9th 2025
            <b>If you do not yet have a GitHub account...</b><br><br>
            1. <a href = https://www.github.com>Click here</a> to create one.<br>
            2. Use your nycstudents.net email address.<br>  
-           3. Create a username using the following format: <code>LastNameFirstInitial_IEC</code>.<br>
+           3. Create a username using the following format: <code>LastNameFirstInitial-IEC</code>.<br>
            4. Create a secure password that you will be able to remember.<br>
            5. Complete the sign up process.
          </td>
@@ -16,7 +16,7 @@ Due: Tuesday, September 9th 2025
 
 ### Configure your username.
 
-Confirm that your username is correctly formatted: <code>LastNameFirstInitial_IEC</code>.  If your username is already correctly formatted, skip this section.  Otherwise, follow the steps below to change your username.
+Confirm that your username is correctly formatted: <code>LastNameFirstInitial-IEC</code>.  If your username is already correctly formatted, skip this section.  Otherwise, follow the steps below to change your username.
 
 1. Navigate to https://github.com/.
 2. Sign in.
@@ -25,7 +25,7 @@ Confirm that your username is correctly formatted: <code>LastNameFirstInitial_IE
 5. On the left menu bar, select "Account".
 6. Scroll to the top of the page and click "Change username".
 7. Click "I understand, let's change my username".
-8. Enter your username using the correct format: <code>LastNameFirstInitial_IEC</code>.
+8. Enter your username using the correct format: <code>LastNameFirstInitial-IEC</code>.
 9. Click "Change my username".
 
 ### Configure your email address:
