@@ -12,7 +12,7 @@ Wednesday, September 10th 2025
     <blockquote>
       <b>We, the people of Paperville, have a problem!</b> Our local amusement park, Paperland, is a snooze fest! We appreciate that the rides are safe, but they just aren't as fun as the rides at other amusement parks like Six Flags Great Adventure or Disney World. The roller coasters are the worst of all.  We wait in long lines for rides that are over in a flash and as boring as watching paper curl. We wouldn't mind the long lines if the rides themselves lasted longer and were more exciting. We don't want safety to be sacrificed. We just want better rides!
     </blockquote><br>
-    4. What is bothering the people of paperville? What do they care about? What do they want?
+    4. As a team, discuss...What is bothering the people of paperville? What do they care about? What do they want?
     <br><br><b>Be prepared to share your responses</b>
   </tr>
 </table>
@@ -24,7 +24,7 @@ Wednesday, September 10th 2025
  - [ ] <ins>TYS61XT.6</ins>: Engage in the design thinking process to iteratively develop work.
 
 **SUCCESS CRITERIA:**
-- [ ] 
+- [ ] I have actively collaborated with my team in an effort to build a fun and safe paper roller coaster with a long ride time. 
 
 **AGENDA:**
 
