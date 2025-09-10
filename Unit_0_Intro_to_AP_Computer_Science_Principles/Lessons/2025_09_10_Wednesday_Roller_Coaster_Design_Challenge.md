@@ -30,26 +30,35 @@ Wednesday, September 10th 2025
 
 1. The Problems at Paperland
 2. Roller Coaster Design Challenge, Part 1
-
-<table>
-  <tr>
-    <td>
-      Design and Build a paper roller coaster that meets the following conditions:<br><br>
-      <ul>
-        <li>Longest Ride Time</li>
-        <li>Fun</li>
-        <li>Safe</li>
-      </ul>
-      <b>5 minutes to brainstorm.<br>
-      10 minutes to build.</b>
-    </td>
-  </tr>
-</table>
-
 3. Competition 1
 4. Roller Coaster Challenge, Part 2
 5. Competition 2   
 
+**ROLLER COASTER DESIGN CHALLENGE:**
+
+<table>
+  <tr>
+    <td>
+      <b>Design and build a paper roller coaster that...</b><br><br>
+      <ul>
+        <li>...has the longest ride time</li>
+        <li>...is the most fun</li>
+        <li>...is safe</li>
+      </ul>
+      <br><b>Your team may use...</b>
+      <ul>
+        <li>...10 sheets of paper</li>
+        <li>...1 roll of tape</li>
+        <li>...1 pair of scissors</li>
+      </ul>
+      <br><b>Your team will have...</b>
+      <ul>
+        <li>...5 minutes to brainstorm</li>
+        <li>...10 minutes to build</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 **HOMEWORK:** 
 
