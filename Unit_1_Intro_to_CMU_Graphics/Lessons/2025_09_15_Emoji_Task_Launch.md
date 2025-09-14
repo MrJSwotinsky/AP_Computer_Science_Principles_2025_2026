@@ -20,9 +20,10 @@ Monday, September 15th 2025
  - [ ] <ins>TYS61XT.6</ins>: Engage in the design thinking process to iteratively develop work.
 
 **SUCCESS CRITERIA:**
-- [ ] I can describe the stages of the design thinking process.
-- [ ] I can describe the flow of the design thinking process.
-- [ ] I am prepared to apply the design thinking process to a new problem.
+- [ ] I understand what the emoji task is all about.
+- [ ] I understand how I will be evaluated on the emoji task.
+- [ ] I can access all of the resources I need to complete the emoji task.
+- [ ] I am prepared to apply the leverage the design thinking process to code an awesome emoji.
 
 **AGENDA:**
 
@@ -35,7 +36,7 @@ Monday, September 15th 2025
 3. [Emoji Task Description](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Description_Emoji_Task.md)
 4. [Emoji Task Pathway to Success](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Emoji%20Task%20-%20Pathway%20to%20Success.pdf)
 5. Design Thinking and Version History
-6. [CMU Graphics](https://academy.cs.cmu.edu/)
+6. What Coding Skills Will I Learn Through the Emoji Task? [(CMU Graphics)](https://academy.cs.cmu.edu/)
 7. Check for Understanding
 
 **HOMEWORK:** 
