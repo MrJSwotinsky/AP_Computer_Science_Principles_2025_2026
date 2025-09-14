@@ -34,8 +34,8 @@ Monday, September 15th 2025
      * Design Planner *(coming soon)*
      * Reflection *(coming soon)*
 3. [Emoji Task Description](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Description_Emoji_Task.md)
-4. [Emoji Task Pathway to Success](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Emoji%20Task%20-%20Pathway%20to%20Success.pdf)
-5. Design Thinking and Version History
+4. Design Thinking and Version History ([Emoji](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Sample/SwotinskyJ_Emoji_Task_Emoji.png) / [Code](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Sample/SwotinskyJ_Emoji_Task_Code.py))
+5. [Emoji Task Pathway to Success](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Emoji%20Task%20-%20Pathway%20to%20Success.pdf)
 6. What Coding Skills Will I Learn Through the Emoji Task? [(CMU Graphics)](https://academy.cs.cmu.edu/)
 7. Check for Understanding
 
