@@ -1,5 +1,5 @@
 ## Unit 1, Assignment 2 - Emoji Task Define Stage and CMU Graphics 1.1.3
-Due: TBA
+Due: Wednesday, September 17th 2025
 
 ### Emoji Task Define Stage:
 1. Complete the **Define** column of your [design planner](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Design%20Planner.pdf) to capture your engagement in the Empathize stage of the [design thinking](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Design%20Thinking.pdf) process.<br>
