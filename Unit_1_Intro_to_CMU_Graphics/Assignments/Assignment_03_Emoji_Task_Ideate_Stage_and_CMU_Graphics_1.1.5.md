@@ -1,5 +1,5 @@
 ## Unit 1, Assignment 3 - Emoji Task Ideate Stage and CMU Graphics 1.1.5
-Due: TBA
+Due: Thursday, September 18th 2025
 
 ### Emoji Task Ideate Stage:
 1. Complete the **Ideate** column of your [design planner](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Design%20Planner.pdf) to capture your engagement in the Empathize stage of the [design thinking](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Design%20Thinking.pdf) process.<br>
