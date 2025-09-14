@@ -23,7 +23,7 @@ Monday, September 15th 2025
 - [ ] I understand what the emoji task is all about.
 - [ ] I understand how I will be evaluated on the emoji task.
 - [ ] I can access all of the resources I need to complete the emoji task.
-- [ ] I am prepared to apply the leverage the design thinking process to code an awesome emoji.
+- [ ] I am prepared to the leverage the design thinking process to code an awesome emoji.
 
 **AGENDA:**
 
