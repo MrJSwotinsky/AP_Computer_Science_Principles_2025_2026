@@ -31,7 +31,7 @@ Monday, September 15th 2025
 2. Emoji Task Preview
      * [Emoji](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Sample/SwotinskyJ_Emoji_Task_Emoji.png)
      * [Code](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Sample/SwotinskyJ_Emoji_Task_Code.py)
-     * Design Planner *(coming soon)*
+     * [Design Planner](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Sample/SwotinskyJ_Emoji_Task_Design_Planner.pdf)
      * Reflection *(coming soon)*
 3. [Emoji Task Description](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Description_Emoji_Task.md)
 4. Design Thinking and Version History ([Emoji](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Sample/SwotinskyJ_Emoji_Task_Emoji.png) / [Code](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Sample/SwotinskyJ_Emoji_Task_Code.py))
