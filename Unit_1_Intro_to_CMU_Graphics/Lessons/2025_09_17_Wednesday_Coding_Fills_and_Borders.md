@@ -11,7 +11,7 @@ Wednesday, September 17th 2025
       2. Click the "Sandbox" button.<br>
       3. Delete any code that is currently in the sandbox.<br>
       4. Copy/Paste the following line of code into the sandbox, and click the green "Run" button.<br><br>
-      <pre><code></code>Rect(0, 0, 100, 100, fill = 'Red', border = 'Purple', borderWidth = 10)</code></pre>
+      <pre><code></code>Rect(0, 0, 100, 100, fill = 'Yellow', border = 'Purple', borderWidth = 10)</code></pre>
       5. Start exploring!
       <ul>
         <li>Try changing the position of the rectangle.  Which properties must be modified to accomplish this?</li>
