@@ -1,5 +1,5 @@
 ## Unit 1, Assignment 6 - Emoji Task Response to Feedback
-Due: Thursday, September 25th 2025
+Due: Friday, September 26th 2025
 
 ### Emoji Task Response to Feedback:
 1. Navigate to the CMU Graphics [sandbox](https://academy.cs.cmu.edu/ide).
