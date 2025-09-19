@@ -1,5 +1,5 @@
 ## Unit 1, Assignment 4 - CMU Graphics 1.2.2 and Emoji Task First Prototype
-Due: Friday, September 19th 2025
+Due: Monday, September 22nd 2025
 
 ### CMU Graphics 1.2.2:
 Complete [CMU Graphics](https://academy.cs.cmu.edu/) exercise set 1.1.5 (Colors and Gradients)
