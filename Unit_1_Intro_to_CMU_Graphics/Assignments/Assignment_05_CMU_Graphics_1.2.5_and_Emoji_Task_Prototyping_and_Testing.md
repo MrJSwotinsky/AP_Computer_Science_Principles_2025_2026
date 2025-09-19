@@ -1,5 +1,5 @@
 ## Unit 1, Assignment 5 - CMU Graphics 1.2.5 and Emoji Task Prototyping and Testing
-Due: Monday, September 22nd 2025
+Due: Thursday, September 25th 2025
 
 ### CMU Graphics 1.2.5:
 Complete [CMU Graphics](https://academy.cs.cmu.edu/) exercise set 1.2.5 (Ovals, Circles, Stars, Lines, Polygons, and Labels)
