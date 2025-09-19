@@ -1,7 +1,7 @@
 # AP Computer Science Principles
-Wednesday, September 17th 2025
+Friday, September 19th 2025
 
-### Coding Fills and Borders
+### Coding Gradients
 <table>
   <tr>
     <td>
