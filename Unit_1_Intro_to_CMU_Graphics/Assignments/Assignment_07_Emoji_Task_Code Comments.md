@@ -1,5 +1,5 @@
 ## Unit 1, Assignment 7 - Emoji Task Code Comments
-Due: Friday, September 26th 2025
+Due: Monday, September 29th 2025
 
 ### Emoji Task Code Comments:
 1. Navigate to the CMU Graphics [sandbox](https://academy.cs.cmu.edu/ide).
