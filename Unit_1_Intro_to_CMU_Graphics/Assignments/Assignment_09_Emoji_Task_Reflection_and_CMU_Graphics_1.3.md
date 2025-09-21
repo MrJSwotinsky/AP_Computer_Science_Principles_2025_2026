@@ -1,5 +1,5 @@
 ## Unit 1, Assignment 9 - Emoji Task Reflection and CMU Graphics 1.3
-Due: Wednesday, October 1st 2025
+Due: Friday, October 3rd 2025
 
 ### Emoji Task Reflection:
 
