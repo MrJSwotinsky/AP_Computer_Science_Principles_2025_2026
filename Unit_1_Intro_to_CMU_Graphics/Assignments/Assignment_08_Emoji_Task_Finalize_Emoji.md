@@ -1,5 +1,5 @@
 ## Unit 1, Assignment 8 - Emoji Task Finalize Emoji
-Due: Tuesday, September 30th 2025
+Due: Wednesday, October 1st 2025
 
 ### Emoji Task Finalize Emoji
 1. Navigate to the CMU Graphics [sandbox](https://academy.cs.cmu.edu/ide).
