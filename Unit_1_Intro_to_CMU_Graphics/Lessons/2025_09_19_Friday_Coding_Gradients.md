@@ -21,7 +21,7 @@ Rect(275, 150, 100, 100, fill = gradient('Yellow', 'Purple', start = 'right'))
 Rect(25, 275, 100, 100, fill = gradient('Yellow', 'Purple', start = 'bottom-left'))
 Rect(150, 275, 100, 100, fill = gradient('Yellow', 'Purple', start = 'bottom'))
 Rect(275, 275, 100, 100, fill = gradient('Yellow', 'Purple', start = 'bottom-right'))</code></pre>
-      5. Start exploring!
+      6. Start exploring!
       <ul>
         <li>Which lines of code generate which rectangles? How do you know?</li>
         <li>What new code do you notice? Based on the output, what do you think each new bit of code means? </li>
