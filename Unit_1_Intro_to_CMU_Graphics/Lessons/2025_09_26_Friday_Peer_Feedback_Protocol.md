@@ -64,11 +64,11 @@ Friday, September 26th 2025
           <li>Planned next steps.</li>
           <li>Challenges to overcome.</li>
          </ul>
-         <b>During presentation, coach(es) capture feedback using peer feedback tool.</b><br><br>
+         <b>During presentation, coach(es) capture feedback using <a href = https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Peer%20Feedback%20-%20Emoji%20Task.pdf>peer feedback tool</a>.</b><br><br>
          <li>Reflection...<i> (5 minutes for pairs, 3 minutes for trios)</i></li>
          <ul>
           <li>Coaches complete peer feedback tool.</li>
-          <li>Presenter completes self reflection tool.</li>
+          <li>Presenter completes <a href = https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Self%20Reflection%20-%20Emoji%20Task.pdf>self reflection tool</a>.</li>
          </ul><br>
         <li>Feedback...<i> (5 minutes for pairs, 4 minutes for trios)</i></li>
         <ul>
