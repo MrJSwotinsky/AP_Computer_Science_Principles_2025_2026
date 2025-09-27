@@ -69,3 +69,26 @@ Create a folder titled, `LastNameFirstInitial_Emoji_Task` to store the following
    </table>
 
 ## Reflection
+
+The final part of this task is to reflect on your work.  Write your reflection using [markdown](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Markdown_Reference.md) in the `README.md` file in your `Emoji Task` folder.  
+
+Your reflection should consist of three to five well written paragraphs addressing the following prompts:
+* What was the Emoji Task all about?
+   * How does your emoji represent you? 
+* Describe your engagement in the design thinking process:
+   * Who was your audience, what were their needs, feelings, and challenges, and how did your final product address the needs feelings and challenges of your audience?
+   * What specific problem statement did you come up with as part of the define stage of the design thinking process?
+   * What were some of the different ideas you came up with as part of the ideate stage of the design thinking process, what were the advantages and disadvantages of each, and how did you decide which one to use?
+   * Describe the prototyping and testing stages of the design thinking process.  What challenges did you experience and how did you troubleshoot them? What feedback did you recieve from peers and how did it influence your work?
+* Describe the specific skills did you learn by completing the Emoji Task?
+* Code Analysis Questions:
+   * What is one example of **output** in your emoji?
+   * What line of code generates this specific output?
+   * How does this specific output contribute to your overall emoji?        
+* Looking back, what might you have done differently, and why?
+* Looking forward, if given more time to continue developing your emoji, what might your next steps be?
+  
+
+
+
+
