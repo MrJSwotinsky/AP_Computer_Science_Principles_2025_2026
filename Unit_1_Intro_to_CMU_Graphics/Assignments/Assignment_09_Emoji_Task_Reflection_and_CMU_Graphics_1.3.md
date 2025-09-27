@@ -6,7 +6,7 @@ Due: Monay, October 6th 2025
 Write your reflection using using [markdown](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Markdown_Reference.md).
 
 1. Open the README.md file in your `Emoji Task` folder to write your reflection.
-2. Start with a heading that includes the **task name**, **refpection**, and **your name**.
+2. Start with a heading that includes the **task name**, **reflection**, and **your name**.
 3. Below your heading, write your reflection.
 
 **Sample:**
