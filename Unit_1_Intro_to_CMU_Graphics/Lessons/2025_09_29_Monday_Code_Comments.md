@@ -38,11 +38,12 @@ Monday, September 29th 2025
 2. Code Comments
 3. What's Coming Up?
     * Emoji Task Due (Friday, 10/3/25)
-    * Emoji Task 90-Second Presentations (Friday, 10/3/25)
+    * Emoji Task Elevator Pitches (Friday, 10/3/25)
     * Emoji Task Reflection Due (Monday, 10/6/25)
     * All Unit 1 CMU Graphics Exercises Due (Monday, 10/6/25)
     * End of Marking Period (Friday, 10/17/25)  
-4. Emoji Task 90-second Presentation Overview
+4. Emoji Task Elevator Pitch Overview
+    * 90 Seconds to Present
     * Display Your emoji.
     * Display Your code.
     * Describe your audience, their needs, feelings, challenges and how your emoji addresses their needs, feelings, and challenges.
@@ -50,12 +51,12 @@ Monday, September 29th 2025
     * Describe one piece of feedback you received from a peer and how you used it.
     * Describe one thing you wish you had done differently.
     * Describe one goal for next steps.      
-5. Emoji Task Check In
+6. Emoji Task Check In
     * [Task Description](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Description_Emoji_Task.md) Check In
     * [Pathway to Success](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Emoji%20Task%20-%20Pathway%20to%20Success.pdf) Review
     * [Sample Task](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/tree/main/Unit_1_Intro_to_CMU_Graphics/Tasks/Emoji_Task/Sample) Review
-6. Coding Time
-7. Check for Understanding
+7. Coding Time
+8. Check for Understanding
 
 **HOMEWORK:** 
 
