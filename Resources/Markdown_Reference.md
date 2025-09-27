@@ -25,4 +25,8 @@
     <td><code>**bold text**</code></td>
     <td><b>bold text</b></td>
   </tr>
+  <tr>
+    <td><code>`code`</code></td>
+    <td><code>code</code></b></td>
+  </tr>
 </table>
