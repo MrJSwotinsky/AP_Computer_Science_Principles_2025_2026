@@ -2,10 +2,12 @@
 Due: Monday, September 29th 2025
 
 ### Emoji Task Response to Feedback:
-1. Navigate to the CMU Graphics [sandbox](https://academy.cs.cmu.edu/ide).
-2. Open `LastNameFirstInitial_Emoji_Task_Code.py`.
-3. Continue prototyping and testing.
-4. Use this as an opportunity to respond to feedback from a peer.
+1. Upload a scan of your peer feedback to your assignments folder (filename:`LastNameFirstInitial_Peer_Feedback_Protocol_Peer_Feedback.pdf`)
+2. Upload a scan of your self reflection to your assignments folder (filename:`LastNameFirstInitial_Peer_Feedback_Protocol_Self_Reflection.pdf`)
+3. Navigate to the CMU Graphics [sandbox](https://academy.cs.cmu.edu/ide).
+4. Open `LastNameFirstInitial_Emoji_Task_Code.py`.
+5. Continue prototyping and testing.
+6. Use this as an opportunity to respond to feedback from a peer.
 
 <table>
       <tr>
