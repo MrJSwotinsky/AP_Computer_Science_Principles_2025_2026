@@ -72,7 +72,7 @@ Create a folder titled, `LastNameFirstInitial_Emoji_Task` to store the following
 
 The final part of this task is to reflect on your work.  Write your reflection using [markdown](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Markdown_Reference.md) in the `README.md` file in your `Emoji Task` folder.  
 
-Your reflection should consist of three to five well written paragraphs addressing the following prompts:
+Your reflection should consist of four to six well written paragraphs addressing the following prompts:
 * What was the Emoji Task all about?
    * How does your emoji represent you? 
 * Describe your engagement in the design thinking process:
