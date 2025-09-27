@@ -1,6 +1,7 @@
 # Emoji Task
+Due: Monday, October 6th
 
-Apply what you have learned about coding shapes in CMU Graphics to code an emoji that represents you.
+**Apply what you have learned about coding shapes in CMU Graphics to code an emoji that represents you.**
 
 ## To Be Submitted
 
