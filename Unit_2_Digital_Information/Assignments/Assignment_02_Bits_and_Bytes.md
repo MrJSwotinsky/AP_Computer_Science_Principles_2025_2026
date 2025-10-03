@@ -5,7 +5,7 @@ Due: Wednesday, October 8th 2025
 
 1. In a new section of your notes, sketch the image below. This image represents one byte.  Each individual square represents one bit.
 
-    <img src = https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Resources/one_byte.png>
+    <img src = https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/one_byte.png>
 
 2. Next to the byte, write down the of **DAY** part of your birthday.  For example, if your birthday is October 7th, write down the number 7.
 
@@ -19,7 +19,7 @@ Due: Wednesday, October 8th 2025
 
 1. In a new section of your notes, sketch the image below. This image represents two bytes.  Each individual square represents one bit.
 
-    <img src = https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Resources/two_bytes.png>
+    <img src = https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/two_bytes.png>
 
 2. Next to the first byte write down the first initial of your first name.  Next to the second byte write down the first initial of your last name.
    
@@ -37,11 +37,11 @@ Due: Wednesday, October 8th 2025
 
 2. Capture an image of your favorite color including the RGB, CMYK, HSV, and HSL values (as shown below) and save it using the filename: `LastNameFirstInitial_Color_Picker.png`
 
-    <img src = https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Resources/Google_Color_Picker_Sample.png>
+    <img src = https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Google_Color_Picker_Sample.png>
 
 3. In a new section of your notes, sketch the image below. This image represents three bytes.  Each individual square represents one bit.
 
-    <img src = https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Resources/three_bytes.png>
+    <img src = https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/three_bytes.png>
 
 4. Next to the first byte write down the red value of your favorite color.  Next to the second byte write down the green value of your favorite color.  Next to the third byte, write down the blue value of your favorite color.
    
