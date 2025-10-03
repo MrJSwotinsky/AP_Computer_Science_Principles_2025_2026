@@ -1,5 +1,9 @@
-## AP Computer Science Principles - Unit 2, Assignment 1 - Binary
+## AP Computer Science Principles - Unit 2, Assignment 1 - AP Classroom Video 2.1i and Binary Exercises
 Due: Tuesday, October 7th 2025
+
+### AP Classroom:
+
+Watch the entirety of AP Classroom Video 2.1 - Video 1.  As you watch, take notes, and write down questions.
 
 ### Convert Binary Numbers to Decimal Numbers:
 
