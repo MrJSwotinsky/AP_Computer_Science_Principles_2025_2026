@@ -25,7 +25,7 @@ Due: Wednesday, October 8th 2025
    
 3. Shade the appropriate number of squares to show how a computer would **physically** represent your initials.  **SHOW ALL WORK**
 
-[Click here](https://github.com/MrJSwotinsky/Python_2025_2026/blob/main/Resources/ASCII_Table_Excerpt.md) for an excerpt from the ASCII table.
+[Click here](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/ASCII_Table_Excerpt.md) for an excerpt from the ASCII table.
 
 4. Capture an image of your work including your shaded bytes, initials, and your work and save it using the filename: `LastNameFirstInitial_Initials.png`
 
