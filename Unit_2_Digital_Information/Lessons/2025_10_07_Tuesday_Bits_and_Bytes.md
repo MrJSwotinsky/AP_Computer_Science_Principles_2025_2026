@@ -45,7 +45,7 @@ Tuesday, October 7th 2025
 
 **ANCHOR SKILL(S) AND POWER STANDARD(S):** 
 
- - [ ] <ins>TYS61XT.2</ins>: Apply computational thinking to a variety of tasks.
+- [ ] <ins>TYS61XT.2</ins>: Apply computational thinking to a variety of tasks.
  
 **SUCCESS CRITERIA:**
 - [ ] I understand that computers use binary to represent **ALL** information (numbers, characters, words, messages, documents, images, videos, applications, etc.)
