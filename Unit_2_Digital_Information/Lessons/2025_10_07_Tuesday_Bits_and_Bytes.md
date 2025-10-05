@@ -58,9 +58,13 @@ Tuesday, October 7th 2025
 3. Using [RGB Values](https://www.google.com/search?q=google+color+picker) to Convert Colors to Binary.
 4. Using Tables to Convert Other Information to Binary
 
-<table float>
+<table>
   <tr>
-    <td rowspan = 3 valign = "center"><img src = https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Traffic%20Light.png></td>
+    <td rowspan = 4 valign = "center"><img src = https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Traffic%20Light.png></td>
+    <td><b>Stop, Slow, or Go</b></td>
+    <td><b>Code</b></td>
+  </tr>
+  <tr>
     <td>Stop</td>
     <td>1001</td>
   </tr>
@@ -74,7 +78,39 @@ Tuesday, October 7th 2025
   </tr>  
 </table>
 
-  
+<table>
+  <tr>
+    <th>Ticket Type</th>
+    <th>Price</th>
+    <th>Code</th>
+  </td>
+  <tr>
+    <td>Standard Ticket</td>
+    <td>$20.00</td>
+    <td>200</td>
+  </tr>
+  <tr>
+    <td>Member Ticket</td>
+    <td>$12.50</td>
+    <td>100</td>
+  </tr>
+  <tr>
+    <td>Youth Ticket</td>
+    <td>$7.50</td>
+    <td>105</td>
+  </tr>
+  <tr>
+    <td>Student Ticket</td>
+    <td>$12.50</td>
+    <td>106</td>
+  </tr>
+   <tr>
+    <td>Senior Ticket</td>
+    <td>$15.00</td>
+    <td>110</td>
+  </tr> 
+</table>
+
 5. Check for Understanding
 
 **HOMEWORK:** 
