@@ -1,7 +1,7 @@
 # AP Computer Science Principles
 Tuesday, October 7th 2025
 
-### Introduction to Binary
+### Bits and Bytes
 
 <table>
   <tr>
