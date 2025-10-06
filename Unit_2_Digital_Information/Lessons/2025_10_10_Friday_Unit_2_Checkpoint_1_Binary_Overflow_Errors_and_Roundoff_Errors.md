@@ -1,7 +1,7 @@
 # AP Computer Science Principles
 Friday, October 10th 2025
 
-### Unit 2, Checkpoint 1 - Binary, Overflow, and Roundoff
+### Unit 2, Checkpoint 1 - Binary, Overflow Errors, and Roundoff Errors
 
 <table>
   <tr>
