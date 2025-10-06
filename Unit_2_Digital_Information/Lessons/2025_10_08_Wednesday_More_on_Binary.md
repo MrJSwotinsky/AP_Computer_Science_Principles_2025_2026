@@ -36,6 +36,7 @@ Wednesday, October 8th 2025
 - [ ] I can identify various patterns in the binary number system.
 - [ ] Given a binary number I can determine the next binary number.
 - [ ] I can determine the maximum number of unique data points that can be assigned given a fixed number of bits.
+- [ ] I can determine the mimimum number of bits required to store a given number of unique data points.
 
 **AGENDA:**
 
@@ -45,6 +46,7 @@ Wednesday, October 8th 2025
      * (Powers of 2) - 1 
 2. Binary Counting
 3. Maximum Unique Data Points Given a Fixed Number of Bits
+4. Minimum Number of Bits Required Given a Fixed Number of Data Points
 5. Check for Understanding
 
 **HOMEWORK:** 
