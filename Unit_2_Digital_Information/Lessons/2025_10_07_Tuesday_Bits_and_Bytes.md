@@ -7,7 +7,7 @@ Tuesday, October 7th 2025
   <tr>
     <td>
       <b>DO NOW:</b><br><br>
-      Use the key below to send to write your name in secret code.<br><br>
+      Use the key below to write your name in secret code.<br><br>
       <table>
         <tr>
           <td>a</td>
