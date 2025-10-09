@@ -6,6 +6,7 @@ Thursday, October 9th 2025
 <table>
   <tr>
     <td>
+      <b>DO NOW:</b><br><br>
       What do you think of when you hear the word, "overflow"?<br>
       What do you think of when you hear the word, "roundoff"?<br><br>
       <b>Be prepared to share your responses.</b>
