@@ -6,6 +6,7 @@ Wednesday, October 8th 2025
 <table>
   <tr>
     <td>
+      <b>DO NOW:</b><br><br>
       1. Convert the binary number 1011 to a decimal number.<br>
       2. Convert the binary number 10110 to a decimal number.<br>
       3. Convert the binary number 101100 to a decimal number.<br>
