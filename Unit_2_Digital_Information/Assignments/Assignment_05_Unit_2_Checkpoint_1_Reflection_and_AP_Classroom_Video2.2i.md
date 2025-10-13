@@ -1,5 +1,5 @@
 ## AP Computer Science Principles - Unit 2, Assignment 1 - AP Classroom Video 2.1i and Binary Exercises
-Due: Tuesday, October 14th 2025
+Due: Wednesday, October 15th 2025
 
 ### AP Classroom:
 
