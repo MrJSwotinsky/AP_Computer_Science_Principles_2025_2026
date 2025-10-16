@@ -42,4 +42,4 @@ Thursday, October 16th 2025
 
 **HOMEWORK:** 
 
-[AP CSP - Unit 2, Assignment 6 - AP Classroom Practice Set 3 - Compression, Part 1](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_2_Digital_Information/Assignments/Assignment_07_AP_Classroom_Practice_Set_4.md)
+[AP CSP - Unit 2, Assignment 7 - AP Classroom Practice Set 4 - Compression, Part 2](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_2_Digital_Information/Assignments/Assignment_07_AP_Classroom_Practice_Set_4.md)
