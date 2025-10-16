@@ -32,11 +32,12 @@ Thursday, October 16th 2025
 3. Exploring Byte Pair Encoding ([Code.org Compression Widget](https://studio.code.org/courses/text-compression/units/1/lessons/1/levels/2))
 4. Class Discussion
    * When data is compressed, what two items contribute to the total file size?
-   * Why is byte pair encoding lossless?
    * What strategies were most effective in achieving maximum compression?
    * What strategies were least effective in achieving maximum compression?
    * Did any strategies make the file size larger? If so, what happened?
    * What makes some strings more or less challenging to compress than others?
+   * Is byte pair encoding always an option?
+   * Why is byte pair encoding lossless?
 5. Check for Understanding
 
 **HOMEWORK:** 
