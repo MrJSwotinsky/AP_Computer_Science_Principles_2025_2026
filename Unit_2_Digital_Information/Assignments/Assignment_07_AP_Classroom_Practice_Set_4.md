@@ -1,4 +1,4 @@
-## AP Computer Science Principles - Unit 2, Assignment 7 - AP Classroom Practice Set 3 - Compression, Part 2
+## AP Computer Science Principles - Unit 2, Assignment 7 - AP Classroom Practice Set 4 - Compression, Part 2
 Due: Friday, October 17th 2025
 
 ### AP Classroom Practice Set 4 - Compression, Part 2
