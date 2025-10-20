@@ -9,10 +9,10 @@ Create a folder titled, `LastNameFirstInitial_Interactive_Image_Task` to store t
 
 * [ ] Your Completed Design Planner  / filename: `LastNameFirstInitial_Interactive_Image_Task_Design_Planner.png`
 * [ ] Your Code (including a robust version history) / filename: `LastNameFirstInitial_Interactive_Image_Task_Code.py`
-* [ ] A Video of Your Interactive Image Program in Action (including a robust version history) / filename: `LastNameFirstInitial_Interactive_Image_Task_Emoji.mp4`
+* [ ] A Video of Your Interactive Image Program in Action (including a robust version history) / filename: `LastNameFirstInitial_Interactive_Image_Task_Video.mp4`
 * [ ] Your Reflection / filename: `README.md`
 
-**Check out this example of what your final project should look like.** - *Coming Soon*
+**Check out [this example](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Tasks/Interactive_Image_Task/Sample) of what your final project should look like.**
 
 **Check out this pathway to success to guide you in progressing toward mastery.** - *Coming Soon*
 
@@ -20,56 +20,26 @@ Create a folder titled, `LastNameFirstInitial_Interactive_Image_Task` to store t
 
 1. Create an interactive image that represents you.  It is up to you to determine how...be creative!
 
-REQUIRED ELEMENTS:
-**Provide examples of each of the following:
-**
--At Least One Student Defined Function
--At Least One Parameter
--Call to Function
--Different Lines of Code Run Depending on Argument
--At Least One Conditional
--OnMousePress() (Depending on Where the Mouse is...Something Different Happens)
--OnMouseRelease() (Depending on Where the Mouse is...Something Different Happens)
--OnMouseMove()
--OnMouseDrag()
--At Least One Variable (Include Global v Local)
--Change Property of At Least One Shape
--At Least One Custom Property (e.g. score)
--Hits
--HitsShape
+2. In your code, include all of the following:
+    * [ ] At least one student-student defined function that...
+       * [ ] ...has at least one parameter.
+       * [ ] ...is called at least two times in your program.
+       * [ ] ...will execute different code segments depending on what argument is passed to a parameter.
+    * [ ] At least one selection block (*a.k.a conditional block, a.k.a. if block*)
+    * [ ] At least one variable with...
+       * [ ] ...at least one custom property updated at least one time in your program.
+       * [ ] ...a built-in property updated at least one time in your program.
+    * [ ] [`onMousePress()`](https://academy.cs.cmu.edu/docs/onMousePress)
+    * [ ] [`onMouseRelease()`](https://academy.cs.cmu.edu/docs/onMouseRelease)
+    * [ ] [`onMouseMove()`](https://academy.cs.cmu.edu/docs/onMouseMove)
+    * [ ] [`onMouseDrag()`](https://academy.cs.cmu.edu/docs/onMouseDrag)
+    * [ ] [`onKeyPress()`](https://academy.cs.cmu.edu/docs/onKeyPress)
+    * [ ] [`onKeyRelease()`](https://academy.cs.cmu.edu/docs/onKeyRelease)
+    * [ ] [`.hits()`](https://academy.cs.cmu.edu/docs/generalShapeMethods#hits) or [`.hitsShape()`](https://academy.cs.cmu.edu/docs/generalShapeMethods#hitsShape)
 
+3. Thoroughly comment your code in a way that explains and enhances the readability of your code without cluttering it.
 
-
-2. In your code, call **all** of the following functions:
-    * [ ] [`Rect()`](https://academy.cs.cmu.edu/docs/rect)
-    * [ ] [`Circle()`](https://academy.cs.cmu.edu/docs/circle)
-    * [ ] [`Oval()`](https://academy.cs.cmu.edu/docs/oval)
-    * [ ] [`Star()`](https://academy.cs.cmu.edu/docs/star)
-    * [ ] [`Line()`](https://academy.cs.cmu.edu/docs/line)
-    * [ ] [`Polygon()`](https://academy.cs.cmu.edu/docs/polygon)
-    * [ ] [`Label()`](https://academy.cs.cmu.edu/docs/label)
-
-3. In your code, pass arguments to **all** of the following keyword parameters:
-    * [ ] `fill`
-    * [ ] `opacity`
-    * [ ] `border` 
-    * [ ] `borderWidth` 
-    * [ ] `rotateAngle`  
-    * [ ] `roundness` 
-    * [ ] `lineWidth` 
-    * [ ] `size`
-    * [ ] `font`
-    * [ ] `bold` 
-    * [ ] `italic` 
-          
-4. In your code, describe `fill` in **all** of the following ways:
-    * [ ] [Built-In Colors](https://academy.cs.cmu.edu/docs/builtInColors)
-    * [ ] [RGB Values](https://academy.cs.cmu.edu/docs/rgbValues) (Check out the [Google Color Picker](https://www.google.com/search?q=google+color+picker) for help creating custom colors.)
-    * [ ] [Gradient](https://academy.cs.cmu.edu/docs/gradients)
-  
-5. Thoroughly comment your code in a way that explains and enhances the readability of your code without cluttering it.
-
-6. Apply the [design thinking](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Design%20Thinking.pdf) process to complete this task
+4. Apply the [design thinking](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Design%20Thinking.pdf) process to complete this task
      * [ ] Capture your engagement in the **Empathize**, **Define**, and **Ideate** stages of the design thinking process using your [design planner](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Design%20Planner.pdf).<br>*Remember, You may want to revisit these stages throughout the design thinking process.  If you do, be sure to capture it in your design thinking planner.*
      * [ ] As you **Prototype** and **Test**, remember to regularly commit.
         * [ ]  For each commit, include a **commit message** and a **description** to **describe** progress and **next steps**.
