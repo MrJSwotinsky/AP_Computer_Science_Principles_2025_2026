@@ -75,15 +75,26 @@ Your reflection should consist of four to six well written paragraphs addressing
    * Describe the prototyping and testing stages of the design thinking process.  What challenges did you experience and how did you troubleshoot them? What feedback did you recieve from peers and how did it influence your work?
 * Describe the specific skills you learned by completing the Interactive Image Task.
 * Code Analysis Questions:
-   * QUESTION(S) ABOUT FUNCTIONALITY OF PROGRAM, WHAT SPECIFICALLY IS SEEN IN THE VIDEO
-   * What is one example of **input** in your interactive image video?
-   * QUESTION ABOUT -> WHAT DOES YOUR PROGRAM DO WITH THAT INPUT
-   * How does this specific input congribute to your overall interactive image?
-   * What is one example of **output** in your interactive image?
-   * What causes this specific output to occur?
-   * How does this specific output contribute to your overall interactive image?
-   * QUESTION(S) ABOUT FUNCTION, IN GENERAL WHAT IT ACCOMPLISHES (HOW IT CONTRIBUTES TO FUNCTIONALITY / MANAGES COMPLEXITY), HOW IT CONTRIBUTES TO THE OVERALL PROGRAM, DETAILED DESCRIPTION (INCL CODE), FUNCTION NAME, PARAMETERS, ARGUMENTS PASSED TO PARAMETERS, HOW PARAMETERS ARE USED, HOW DIFFERENT ARGUMENTS RESULT IN DIFFERENT SEGMENTS OF CODE RUNNING (WRITE 2 CALLS - ID THE ARGUMENT, LINES OF CODE RUN, AND RESULT OF EACH, WRITE A NEW PROCEDURE CALL NOT IN CODE THAT WILL CAUSE DIFFERENT LINES OF CODE TO RUN, WHAT WILL HAPPEN)
-   * QUESTION(S) ABOUT CONDITIONAL, OVERALL WHAT IT ACCOMPLISHES (HOW IT CONTRIBUTES TO FUNCTIONALITY / MANAGES COMPLEXITY), BOOLEAN, WHAT WILL CAUSE IT TO EVALUATE TO TRUE AND WHY, WHAT HAPPENS IF IT EVALUATES TO TRUE, WHAT WILL CAUSE IT TO EVALUATE TO FALSE AND WHY, WHAT HAPPENS IF IT EVALUATES TO FALSE        
+   * Describe the functionality of your program.  In other words, what does it do?
+   * Provide one example of **input** in your program, and explain what your program does with that input, as well how that input contributes to the overall functionality of your program.
+   * Provide one example of **output** in your program, and explain what causes that output to occur, as well as how that output contributes to the overall functionality of your program.
+   * Identify one student-defined function in your program.
+       * What is it's name?
+       * In general, what does it do and how does it contribute to the overall functionality of your program?
+       * Describe how it works in enough detail that another programmer could re-construct it.
+   * What parameter(s) does your function accept?
+   * Identify one function call in your program.
+       * What argument(s) are passed to your function's parameter(s)?
+       * As a result, what lines of code are executed?
+       * As a result, what happens?
+    * Describe a different function call that would result in different lines of code being executed.
+       * What argument(s) are passed to your function's parameter(s)?
+       * As a result, what different lines of code are executed?
+       * As a result, what happens?
+    * Identify one selection block (*a.k.a. conditional, a.k.a. if block*) in your program.
+       * Overall, how does your selection block contribute to the overall functionality of your program?
+       * Identify the first boolean in your selection block.
+       * Identify a value that will cause it to evaluate to `True` and explain why that value will cause it to evaluate to `True`, and describe what will happen if it evaluates to `True`.
+       * Identify a value that will cause it to evaluate to `False` and explain why that value will cause it to evaluate to `False`, and describe what will happen if it evaluates to `False`.       
 * Looking back, what might you have done differently, and why?
 * Looking forward, if given more time to continue developing your emoji, what might your next steps be?
-  
