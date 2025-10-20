@@ -9,7 +9,8 @@ Create a folder titled, `LastNameFirstInitial_Interactive_Image_Task` to store t
 
 * [ ] Your Completed Design Planner  / filename: `LastNameFirstInitial_Interactive_Image_Task_Design_Planner.png`
 * [ ] Your Code (including a robust version history) / filename: `LastNameFirstInitial_Interactive_Image_Task_Code.py`
-* [ ] A Video of Your Interactive Image Program in Action (including a robust version history) / filename: `LastNameFirstInitial_Interactive_Image_Task_Video.mp4`
+* [ ] A Video (including a robust version history) / filename: `LastNameFirstInitial_Interactive_Image_Task_Video.mp4`
+   * [ ] *Your video shows the full functionality of your interactive image program in action.* 
 * [ ] Your Reflection / filename: `README.md`
 
 **Check out [this example](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Tasks/Interactive_Image_Task/Sample) of what your final project should look like.**
