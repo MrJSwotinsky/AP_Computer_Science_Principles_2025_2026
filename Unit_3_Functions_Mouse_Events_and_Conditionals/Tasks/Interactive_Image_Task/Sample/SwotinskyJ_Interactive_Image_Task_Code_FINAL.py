@@ -47,22 +47,22 @@ def draw_button(left,top, shape):
 panel = Rect(0, 340, 400, 60, fill = 'lavender', visible = False)
 
 
-# Draw buttons and for each button add a label (L,R,U, or D) and a white cover that can change opacity to make the button look pressed:
+# Draw buttons and for each button add a label (L,R,U, or D) and a lavender cover that can change opacity to make the button look pressed:
 left_button = draw_button(10, 350, 'Circle')
 left_button_label = Label('L', 30, 370)
-left_button_cover = Rect(10, 350, 50, 50, fill = 'white', opacity = 0)
+left_button_cover = Rect(10, 350, 50, 50, fill = 'lavender', opacity = 0)
 
 right_button = draw_button(85, 350, 'Circle')
 right_button_label = Label('R', 105, 370)
-right_button_cover = Rect(85, 350, 50, 50, fill = 'white', opacity = 0)
+right_button_cover = Rect(85, 350, 50, 50, fill = 'lavender', opacity = 0)
 
 up_button = draw_button(160, 350, 'Circle')
 up_button_label = Label('U', 180, 370)
-up_button_cover = Rect(160, 350, 50, 50, fill = 'white', opacity = 0)
+up_button_cover = Rect(160, 350, 50, 50, fill = 'lavender', opacity = 0)
 
 down_button = draw_button(235, 350, 'Circle')
 down_button_label = Label('D', 255, 370)
-down_button_cover = Rect(235, 350, 50, 50, fill = 'white', opacity = 0)
+down_button_cover = Rect(235, 350, 50, 50, fill = 'lavender', opacity = 0)
 
 
 # Draw pointer:
