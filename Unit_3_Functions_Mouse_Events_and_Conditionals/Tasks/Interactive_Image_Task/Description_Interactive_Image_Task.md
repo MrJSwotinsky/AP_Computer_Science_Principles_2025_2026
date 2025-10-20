@@ -15,7 +15,7 @@ Create a folder titled, `LastNameFirstInitial_Interactive_Image_Task` to store t
 
 **Check out [this example](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Tasks/Interactive_Image_Task/Sample) of what your final project should look like.**
 
-**Check out this pathway to success to guide you in progressing toward mastery.** - *Coming Soon*
+**Check out this [pathway to success](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Tasks/Interactive_Image_Task/Interactive%20Image%20Task%20-%20Pathway%20to%20Success.pdf) to guide you in progressing toward mastery.**
 
 ## Requirements
 
