@@ -35,7 +35,8 @@ Create a folder titled, `LastNameFirstInitial_Interactive_Image_Task` to store t
     * [ ] [`onMouseDrag()`](https://academy.cs.cmu.edu/docs/onMouseDrag)
     * [ ] [`onKeyPress()`](https://academy.cs.cmu.edu/docs/onKeyPress)
     * [ ] [`onKeyRelease()`](https://academy.cs.cmu.edu/docs/onKeyRelease)
-    * [ ] [`.hits()`](https://academy.cs.cmu.edu/docs/generalShapeMethods#hits) or [`.hitsShape()`](https://academy.cs.cmu.edu/docs/generalShapeMethods#hitsShape)
+    * [ ] [`.hits()`](https://academy.cs.cmu.edu/docs/generalShapeMethods#hits)
+    * [ ] [`.hitsShape()`](https://academy.cs.cmu.edu/docs/generalShapeMethods#hitsShape)
 
 3. Thoroughly comment your code in a way that explains and enhances the readability of your code without cluttering it.
 
