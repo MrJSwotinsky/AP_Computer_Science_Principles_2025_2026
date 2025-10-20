@@ -23,4 +23,4 @@ Wednesday, October 22nd 2025
 
 **HOMEWORK:** 
 
-No homework tonight.  Have a great evening!
+[AP CSP - Unit 2, Assignment 9 - Unit 2 Checkpoint 2 Reflection](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_2_Digital_Information/Assignments/Assignment_09_Unit_2_Checkpoint_2_Reflection.md)
