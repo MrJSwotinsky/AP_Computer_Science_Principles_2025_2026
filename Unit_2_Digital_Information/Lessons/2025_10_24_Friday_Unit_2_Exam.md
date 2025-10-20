@@ -23,4 +23,4 @@ Friday, October 24th 2025
 
 **HOMEWORK:** 
 
-No homework tonight.  Have a great evening!
+[AP CSP - Unit 3, Assignment 1 - Interactive Image Task Empathize Stage](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Assignments/Assignment_01_Interactive_Image_Task_Empathize_Stage.md)
