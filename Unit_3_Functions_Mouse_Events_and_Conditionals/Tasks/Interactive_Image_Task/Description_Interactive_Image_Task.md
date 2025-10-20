@@ -7,7 +7,7 @@ Due: TBD
 
 Create a folder titled, `LastNameFirstInitial_Interactive_Image_Task` to store the following deliverables for this task:
 
-* [ ] Your Completed Design Planner  / filename: `LastNameFirstInitial_Interactive_Image_Task_Design_Planner.png`
+* [ ] Your Completed Design Planner  / filename: `LastNameFirstInitial_Interactive_Image_Task_Design_Planner.pdf`
 * [ ] Your Code (including a robust version history) / filename: `LastNameFirstInitial_Interactive_Image_Task_Code.py`
 * [ ] A Video (including a robust version history) / filename: `LastNameFirstInitial_Interactive_Image_Task_Video.mp4`
    * [ ] *Your video shows the full functionality of your interactive image program in action.* 
