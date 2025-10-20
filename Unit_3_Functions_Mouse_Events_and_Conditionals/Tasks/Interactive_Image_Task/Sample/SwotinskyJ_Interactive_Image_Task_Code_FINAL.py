@@ -1,9 +1,11 @@
 # Draw maze background:
 Rect(0, 0, 400, 340, fill = 'lightGrey')
 
+
 # Draw maze runner:
 maze_runner = Circle(25, 25, 10, fill = 'Gold')
 maze_runner.distance_travelled = 0
+
 
 # Draw maze:
 Label('Start', 25, 25)
@@ -25,6 +27,7 @@ Line(50, 250, 260, 250)
 Line(50, 250, 50, 290)
 Line(10, 210, 260, 210)
 
+
 # Accept left, top, and shape as arguments, and draw a shape-shaped button with the its top-left corner at top and left:
 def draw_button(left,top, shape):
     if shape == 'Square':
@@ -38,6 +41,11 @@ def draw_button(left,top, shape):
         Circle(left + 20, top + 20, 12, fill = 'lightGrey')
     else:
         pass
+
+
+# Draw button panel background:
+panel = Rect(0, 340, 400, 60, fill = 'lavender', visible = False)
+
 
 # Draw buttons and for each button add a label (L,R,U, or D) and a white cover that can change opacity to make the button look pressed:
 left_button = draw_button(10, 350, 'Circle')
@@ -56,13 +64,16 @@ down_button = draw_button(235, 350, 'Circle')
 down_button_label = Label('D', 255, 370)
 down_button_cover = Rect(235, 350, 50, 50, fill = 'white', opacity = 0)
 
+
 # Draw pointer:
 pointer = Polygon(200, 200, 220, 210, 210, 220, fill = 'red')
+
 
 # Draw distance display:
 Label('Distance Travelled:', 340, 360)
 distance = Label(maze_runner.distance_travelled, 340, 375)
 Label = Label('px', 340, 390)
+
 
 # Drag the maze runner and the pointer as the mouse is dragged:
 def onMouseDrag(mouseX, mouseY):
@@ -75,10 +86,16 @@ def onMouseDrag(mouseX, mouseY):
         pointer.centerX = mouseX
         pointer.centerY = mouseY
   
+
 # Drag the pointer as the mouse moves.      
 def onMouseMove(mouseX, mouseY):
         pointer.centerX = mouseX
         pointer.centerY = mouseY
+        if panel.hits(mouseX, mouseY):
+            panel.visible = True
+        else:
+            panel.visible = False
+
 
 # When the mouse is pressed, check whether or not the pointer hits any button.  
 # If it is on a button, change that button's cover to 50% opacity to make it look pressed.
@@ -105,6 +122,7 @@ def onMousePress(mouseX, mouseY):
         pass
     distance.value = maze_runner.distance_travelled
  
+
 # When a key is pressed, check whether or not it was the left, right, up, or down arrow key..  
 # If it is the left, right, up, or down arrow key, change that button's cover to 50% opacity to make it look pressed.
 # Then, move the maze runner 10 units in that direction, and update the distance travelled.
@@ -130,6 +148,7 @@ def onKeyPress(key):
         pass
     distance.value = maze_runner.distance_travelled
 
+
 # When the mouse is released, change all button's covers to 0% opacity to make them look not un-pressed:    
 def onMouseRelease(mouseX, mouseY):
     left_button_cover.opacity = 0
@@ -137,6 +156,7 @@ def onMouseRelease(mouseX, mouseY):
     up_button_cover.opacity = 0
     down_button_cover.opacity = 0
     
+
 # When a key is released, change all button's covers to 0% opacity to make them look not un-pressed:     
 def onKeyRelease(key):
     left_button_cover.opacity = 0
