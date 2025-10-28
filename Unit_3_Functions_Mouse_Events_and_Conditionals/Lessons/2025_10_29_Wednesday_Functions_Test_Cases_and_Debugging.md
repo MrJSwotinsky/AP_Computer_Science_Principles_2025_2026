@@ -1,5 +1,5 @@
 # AP Computer Science Principles
-Monday, October 27th 2025
+Wednesday, October 30th 2025
 
 ### Introduction to Functions
 <table>
@@ -7,10 +7,7 @@ Monday, October 27th 2025
     <td>
       <b>DO NOW:</b><br><br>
       <b>If you need a laptop, remember to exchange your student ID for a laptop as you enter the room.</b><br><br>
-      1. Navigate to <a href = https://academy.cs.cmu.edu/>CMU Graphics</a>, and sign in.<br>
-      2. Click the "Sandbox" button.<br>
-      3. Start a new file.<br>
-      4. Examine the following code **without running it**, describe what you expect to see on the canvas, and why:<br><br>
+      Examine the following code **without running it**, describe what you expect to see on the canvas, and why:<br><br>
 <pre><code># Function Definition:
 def draw_design(x_center, y_center, outer_circle_size, inner_circle_size, outer_circle_color, inner_circle_color):
   Circle(x_center, y_center, outer_circle_size, fill = outer_circle_color)
