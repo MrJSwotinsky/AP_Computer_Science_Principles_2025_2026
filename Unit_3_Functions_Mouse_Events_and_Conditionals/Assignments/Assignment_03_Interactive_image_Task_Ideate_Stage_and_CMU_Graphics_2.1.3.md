@@ -1,4 +1,4 @@
-## Unit 3, Assignment 3 - Interactive Image Task Ideate Stage and CMU Graphics 2.1.4
+## Unit 3, Assignment 3 - Interactive Image Task Ideate Stage and CMU Graphics 2.1.3
 Due: Thursday, October 30th 2025
 
 ### Interactive Image Task Ideate Stage:
