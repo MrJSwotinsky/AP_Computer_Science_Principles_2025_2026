@@ -1,5 +1,5 @@
 # AP Computer Science Principles
-Wednesday, October 30th 2025
+Wednesday, October 29th 2025
 
 ### Introduction to Functions
 <table>
