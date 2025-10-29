@@ -42,4 +42,4 @@ draw_design(200, 200, 50, 75, 'green', 'blue')</code></pre>
 
 **HOMEWORK:** 
 
-[AP CSP - Unit 3, Assignment 3 - Interactive Image Task Ideate Stage and CMU Graphics 2.1.3](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Assignments/Assignment_03_Interactive_image_Task_Ideate_Stage_and_CMU_Graphics_2.1.3.md?plain=1)
+[AP CSP - Unit 3, Assignment 3 - Interactive Image Task Ideate Stage and CMU Graphics 2.1.3](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Assignments/Assignment_03_Interactive_Image_Task_Ideate_Stage_and_CMU_Graphics_2.1.3.md?plain=1)
