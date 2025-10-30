@@ -7,7 +7,7 @@ Thursday, October 30th 2025
     <td>
       <b>DO NOW:</b><br><br>
       <b>If you need a laptop, remember to exchange your student ID for a laptop as you enter the room.</b><br><br>
-      Navigate to CMU Graphics Lesson 2.1.4 and begin working through the lesson.  As you work, take notes, and write down any questions you may have.
+      Navigate to CMU Graphics Lesson 2.1.4 and begin working through the lesson.  As you work, take notes, and write down any questions you may have.<br><br>
       <b>Be prepared to share your responses.</b> 
    </td>
   </tr>
