@@ -34,8 +34,8 @@ Friday, October 31st 2025
 **AGENDA:**
 
 1. Program and Code Analysis
-2. `onMousePress()`
-3. `onMouseRelease()`
+2. [`onMousePress()`](https://academy.cs.cmu.edu/docs/onMousePress)
+3. [`onMouseRelease()`](https://academy.cs.cmu.edu/docs/onMouseRelease)
 4. Check for Understanding
 5. Homework Head Start
 
