@@ -19,7 +19,7 @@ Complete [CMU Graphics](https://academy.cs.cmu.edu/) exercise set 2.2.2 (`onMous
       <tr>
          <td>
             <b>REMINDER:</b><br>
-            As you work, whenever you make significant progress (or if you haven't commited in a while), remember to save your code, commit your interactive image, and commit your code.<br><br>
+            As you work, whenever you make significant progress (or if you haven't commited in a while), remember to save your code, commit your interactive image video, and commit your interactive image code.<br><br>
             <b>For each commit...</b>
             <ul>
               <li>Remember to write a short and simple commit message to describe your progress.</li>
