@@ -11,7 +11,7 @@ Complete [CMU Graphics](https://academy.cs.cmu.edu/) exercise set 2.2.2 (variabl
 3. Continue building, prototyping, and testing.
 
 **At minimum**, add the following to your interactive image:<br>
-  * Assign a shape to at least one variable.<br>
+  * Assign at least one shape to a variable.<br>
   * Code at least one property of your shape to change value when the mouse is pressed.<br>
   * Code your shape's property to change back to its original value when the mouse is released.
 
