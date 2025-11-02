@@ -1,5 +1,5 @@
 ## Unit 3, Assignment 7 - Interactive Image Task Progress
-Due: Wednesday, November 5th 2025
+Due: Thursday, November 6th 2025
 
 ### Interactive Image Task Progress:
 1. Navigate to the CMU Graphics [sandbox](https://academy.cs.cmu.edu/ide).
