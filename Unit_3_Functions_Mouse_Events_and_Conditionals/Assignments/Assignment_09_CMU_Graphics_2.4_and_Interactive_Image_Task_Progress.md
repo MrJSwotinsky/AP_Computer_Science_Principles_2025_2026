@@ -33,3 +33,8 @@ Complete [CMU Graphics](https://academy.cs.cmu.edu/) exercise set 2.4 (Unit 2 Mi
    </table>
 
 **Don't be afraid to revisit the Empathize, Define, and Ideate stages of the [design thinking](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Design%20Thinking.pdf) process as needed.**
+
+
+**Capture any updates in your [design planner](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Design%20Planner.pdf) and upload them to your Interactive Image Task folder.**
+
+**As you work, remember to refer to the Interactive Image Task [description](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Tasks/Interactive_Image_Task/Description_Interactive_Image_Task.md), [example](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/tree/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Tasks/Interactive_Image_Task/Sample), and [pathway to success](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Tasks/Interactive_Image_Task/Interactive%20Image%20Task%20-%20Pathway%20to%20Success.pdf) to guide you in progressing toward mastery.**
