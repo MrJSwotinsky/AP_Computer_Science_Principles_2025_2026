@@ -1,5 +1,5 @@
-## Unit 3, Assignment 8 - CMU Graphics 2.4 and Interactive Image Task Progress
-Due: Friday, November 7th 2025
+## Unit 3, Assignment 9 - CMU Graphics 2.4 and Interactive Image Task Progress
+Due: Monday, November 10th 2025
 
 ### CMU Graphics 2.4:
 Complete [CMU Graphics](https://academy.cs.cmu.edu/) exercise set 2.4 (Unit 2 Mid Unit Practice)
