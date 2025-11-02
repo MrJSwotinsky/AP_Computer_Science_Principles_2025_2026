@@ -11,7 +11,10 @@ Complete [CMU Graphics](https://academy.cs.cmu.edu/) exercise set 2.3.3 (General
 2. Open `LastNameFirstInitial_Interactive_Image_Task_Code.py`.
 3. Continue building, prototyping, and testing.<br>
 
-**Consider using this as an opportunity to...** <br>
+**At minimum**, add the following to your interactive image:<br>
+  * Code the value of at least one shape's `visible` property to change when the mouse is pressed or released.
+
+**Additionally, consider using this as an opportunity to...** <br>
 * ...apply what you learned about general shape properties and/or shape-specific properties to further develop your interactive image. 
 * ...troubleshoot an existing issue.
 * ...seek feedback from a peer and use it to further develop your interactive image.
