@@ -41,4 +41,4 @@ Friday, October 31st 2025
 
 **HOMEWORK:** 
 
-[AP CSP - Unit 3, Assignment 3 - CMU Graphics 2.2.2 and Interactive Image Task Progress](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Assignments/Assignment_05_CMU_Graphics_2.2.2_and_Interactive_Image_Task_Progress.md)
+[AP CSP - Unit 3, Assignment 5 - CMU Graphics 2.2.2 and Interactive Image Task Progress](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Assignments/Assignment_05_CMU_Graphics_2.2.2_and_Interactive_Image_Task_Progress.md)
