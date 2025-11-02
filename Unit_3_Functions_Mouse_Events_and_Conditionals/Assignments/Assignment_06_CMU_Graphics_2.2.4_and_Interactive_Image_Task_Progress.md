@@ -25,8 +25,8 @@ Complete [CMU Graphics](https://academy.cs.cmu.edu/) exercise set 2.2.2 (variabl
             <ul>
               <li>Remember to write a short and simple commit message to describe your progress.</li>
               <li>Remember to write a more detailed commit description to describe your progress and next steps.</li>
-              <li>Remember to use the same commit message for both your emoji and code.</li>
-              <li>Remember to use the same commit description for both your emoji and code.</li>
+              <li>Remember to use the same commit message for both your interactive image video and code.</li>
+              <li>Remember to use the same commit description for both your interactive video and code.</li>
          </td>
       </tr>
    </table>
