@@ -1,0 +1,35 @@
+## Unit 3, Assignment 8 - CMU Graphics 2.4 and Interactive Image Task Progress
+Due: Friday, November 7th 2025
+
+### CMU Graphics 2.4:
+Complete [CMU Graphics](https://academy.cs.cmu.edu/) exercise set 2.4 (Unit 2 Mid Unit Practice)
+
+**Successfully complete enough exercises to earn at least 3 points.**
+
+### Interactive Image Task Progress:
+1. Navigate to the CMU Graphics [sandbox](https://academy.cs.cmu.edu/ide).
+2. Open `LastNameFirstInitial_Interactive_Image_Task_Code.py`.
+3. Continue building, prototyping, and testing.<br>
+
+**Consider using this as an opportunity to...** <br>
+* ...apply what you learned about general shape properties and/or shape-specific properties to further develop your interactive image. 
+* ...troubleshoot an existing issue.
+* ...seek feedback from a peer and use it to further develop your interactive image.
+* ...continue developing your interactive image in some other way.
+
+<table>
+      <tr>
+         <td>
+            <b>REMINDER:</b><br>
+            As you work, whenever you make significant progress (or if you haven't commited in a while), remember to save your code, commit your interactive image video, and commit your interactive image code.<br><br>
+            <b>For each commit...</b>
+            <ul>
+              <li>Remember to write a short and simple commit message to describe your progress.</li>
+              <li>Remember to write a more detailed commit description to describe your progress and next steps.</li>
+              <li>Remember to use the same commit message for both your interactive image video and code.</li>
+              <li>Remember to use the same commit description for both your interactive video and code.</li>
+         </td>
+      </tr>
+   </table>
+
+**Don't be afraid to revisit the Empathize, Define, and Ideate stages of the [design thinking](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/Design%20Thinking.pdf) process as needed.**
