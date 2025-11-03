@@ -1,7 +1,7 @@
 ## Unit 3, Assignment 6 - CMU Graphics 2.2.4 and Interactive Image Task Progress
 Due: Wednesday, November 5th 2025
 ### CMU Graphics 2.2.4:
-Complete [CMU Graphics](https://academy.cs.cmu.edu/) exercise set 2.2.2 (variables)
+Complete [CMU Graphics](https://academy.cs.cmu.edu/) exercise set 2.2.4 (variables)
 
 **Successfully complete enough exercises to earn at least 2 points.**
 
