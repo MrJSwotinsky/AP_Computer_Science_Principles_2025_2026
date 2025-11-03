@@ -7,7 +7,7 @@ Monday, November 3rd, 2025
     <td>
       <b>DO NOW:</b><br><br>
       1. Navigate to the CMU Graphics sandbox and open the file `trees.py`<br>
-      2. Run `trees.py`.  What do you see?<br>
+      2. Run <code>trees.py</code>.  What do you see?<br>
       3. Click the mouse <b>one time</b>.  What happens?<br>
       4. Click the mouse <b>several times</b>.  What happens?<br>
       5. Examine the code.  Based on your observations interacting with the program, what do you think the function `onMousePress()` accomplishes?<br><br>
