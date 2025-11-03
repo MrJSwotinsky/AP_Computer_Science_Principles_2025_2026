@@ -10,7 +10,7 @@ Monday, November 3rd, 2025
       2. Run <code>trees.py</code>.  What do you see?<br>
       3. Click the mouse <b>one time</b>.  What happens?<br>
       4. Click the mouse <b>several times</b>.  What happens?<br>
-      5. Examine the code.  Based on your observations interacting with the program, what do you think the function `onMousePress()` accomplishes?<br><br>
+      5. Examine the code.  Based on your observations interacting with the program, what do you think the function <code>onMousePress()</code> accomplishes?<br><br>
       <b>Be prepared to share your responses.</b> 
    </td>
   </tr>
