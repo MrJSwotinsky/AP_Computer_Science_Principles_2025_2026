@@ -36,11 +36,11 @@ Monday, November 3rd, 2025
      `variable_name = ` <- Data to be assigned follows the `=` sign.
 4. [General Shape Properties](https://academy.cs.cmu.edu/docs/generalShapeProperties)
 5. Shortcut Operator Examples
-     `n = n + 1` can be shortened to `n += 1` (a.k.a. "Increment by 1.")
-     `n = n - 1` can be shortened to `n -= 1` (a.k.a. "Decrement by 1.")
-     `n = n * 2` can be shortened to `n *= 2` (a.k.a. "Double.")
-     `n = n / 2` can be shortened to `n /= 2` (a.k.a. "Halve.")
-     *Note: Other values can be used as well.*     
+     `n = n + 1` can be shortened to `n += 1` (a.k.a. "Increment by 1.")<br>
+     `n = n - 1` can be shortened to `n -= 1` (a.k.a. "Decrement by 1.")<br>
+     `n = n * 2` can be shortened to `n *= 2` (a.k.a. "Double.")<br>
+     `n = n / 2` can be shortened to `n /= 2` (a.k.a. "Halve.")<br>
+     *Note: Other values can be used as well.*<br>
 6. Check for Understanding
 7. Homework Head Start
 
