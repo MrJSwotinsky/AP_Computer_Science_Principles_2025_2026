@@ -22,24 +22,26 @@ Thursday, November 6th, 2025
   </tr>
 </table>
 
-**AIM:** How can we leverage the `onMouseMove()` and `onMouseDrag()` functions to add additional interactive features to our programs?
+**AIM:** How can we leverage both general and shape-specific properties to level-up our programs?
 
 **ANCHOR SKILL(S) AND POWER STANDARD(S):** 
 
  - [ ] <ins>TYS61XT.3</ins>: Code using appropriate logic and syntax.
  
 **SUCCESS CRITERIA:**
-- [ ] I can leverage the `onMouseMove()` and `onMouseDrag()` functions to add additional interactive features to my programs.
+- [ ] I can reference, use, and modify shape properties.
 
 **AGENDA:**
 
-1. Program and Code Analysis
-2. [`onMouseMove()`](https://academy.cs.cmu.edu/docs/onMouseMove)
-3. [`onMouseDrag()`](https://academy.cs.cmu.edu/docs/onMouseDrag)
-4. "Pointers" vs. "Painters"
+1. Recalling Properties
+    * [General Shape Properties](https://academy.cs.cmu.edu/docs/generalShapeProperties)
+    * Shape Specific Properties (e.g. [Star](https://academy.cs.cmu.edu/docs/star), [Circle](https://academy.cs.cmu.edu/docs/circle), etc.)
+2. Referencing Shape Properties
+3. Using Shape Properties
+4. Modifying Shape Properties
 5. Check for Understanding
 6. Homework Head Start
 
 **HOMEWORK:** 
 
-[AP CSP - Unit 3, Assignment 7 - Interactive Image Task Progress](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Assignments/Assignment_07_Interactive_Image_Task_Progress.md)
+[AP CSP - Unit 3, Assignment 8 - CMU Graphics 2.3.3 and Interactive Image Task Progress](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Unit_3_Functions_Mouse_Events_and_Conditionals/Assignments/Assignment_08_CMU_Graphics_2.3.3_and_Interactive_Image_Task_Progress.md)
