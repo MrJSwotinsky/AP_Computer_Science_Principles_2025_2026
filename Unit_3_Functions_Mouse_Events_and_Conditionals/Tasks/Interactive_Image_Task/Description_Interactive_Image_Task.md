@@ -56,7 +56,7 @@ Create a folder titled, `LastNameFirstInitial_Interactive_Image_Task` to store t
             ...It helps to document your engagement in the design thinking process.<br>
             ...It gives you the ability to go back to a previous version at any time.<br>
             ...It provides evidence that the work you submit is authentically yours.<br><br>
-            <b>Tasks submitted without a <ins>well documented</ins> version history containing <ins>at least 5 versions of your code</ins> and <ins>at least 5 versions of your video</ins> will not be accepted.</b>
+            <b>Tasks submitted without a <ins>well documented</ins> version history containing <ins>at least 10 versions of your code</ins> and <ins>at least 10 versions of your video</ins> will not be accepted.</b>
          </td>
       </tr>
    </table>
