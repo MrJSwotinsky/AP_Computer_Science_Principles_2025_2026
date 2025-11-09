@@ -29,7 +29,7 @@ Thursday, November 13th, 2025
 1. Functions (aka Procedures)
 2. What is Procedural Abstraction?
 3. Benefits of Procedural Abstraction
-4. Procedure Calls ([AP Psuedocode Reference)](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/AP_CSP_Exam_Reference_Information_2026.pdf)
+4. Procedure Calls ([AP Pseudocode Reference)](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/AP_CSP_Exam_Reference_Information_2026.pdf)
     * ...involving DISPLAY().
     * ...on the coordinate plane.
     * ...involving robots that draw.
