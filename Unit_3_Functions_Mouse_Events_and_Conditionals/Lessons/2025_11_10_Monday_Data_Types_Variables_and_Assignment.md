@@ -48,7 +48,7 @@ Monday, November 14th, 2025
 3. `2` vs. `'2'` vs. `'Two'`
 4. Choosing Appropriate Data Type
 5. Variables - The Box Model
-6. Variables and Assignment - Code Tracing
+6. Variables and Assignment - Code Tracing ([AP Pseudocode Reference)](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/AP_CSP_Exam_Reference_Information_2026.pdf)
     * Mild (Values Only)
     * Medium (A Little Bit of Math)
     * Spicy (Swapping Values)
