@@ -30,7 +30,7 @@ Monday, November 17th, 2025
 **AGENDA:**
 
 1. Two Truths and a Lie
-2. All About Booleans
+2. All About Booleans ([AP Pseudocode Reference)](https://github.com/MrJSwotinsky/AP_Computer_Science_Principles_2025_2026/blob/main/Resources/AP_CSP_Exam_Reference_Information_2026.pdf)
 3. Using Booleans to Represent Real Life Conditions
 4. Logic Gate Diagrams
 5. Code Tracing
