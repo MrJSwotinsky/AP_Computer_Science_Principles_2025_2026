@@ -3,7 +3,7 @@ Due: Friday, November 14th 2025
 
 ### AP Classroom:
 
-Watch the entirety of AP Classroom Video 3.12 - Videos 2.  As you watch, take notes, and write down questions.
+Watch the entirety of AP Classroom Video 3.12 - Video 2.  As you watch, take notes, and write down questions.
 
 ### Practice Set 7 - Introduction to Procedures (aka Functions)
 
