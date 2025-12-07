@@ -1,5 +1,5 @@
 # AP Computer Science Principles
-Monday, December 7th 2025
+Monday, December 8th 2025
 
 ### Unit 3, Checkpoint 2 - Booleans
 
